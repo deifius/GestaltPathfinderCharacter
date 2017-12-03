@@ -1,0 +1,2883 @@
+-=-=-=-=-=-=-=-paladin=-=-=-=-=-=-=-=
+   Level Base Attack Bonus Fort Save Ref Save          Will Save       1st               2nd       3rd      4th Unnamed: 4_level_1   
+0    1st                +1         2        0                  2   
+1    2nd                +2         3        0                  3   
+2    3rd                +3         3        1                  3   
+3    4th                +4         4        1                  4   
+4    5th                +5         4        1                  4   
+5    6th             +6/+1         5        2                  5   
+6    7th             +7/+2         5        2                  5   
+7    8th             +8/+3         6        2                  6   
+8    9th             +9/+4         6        3                  6   
+9   10th            +10/+5         7        3                  7   
+10  11th         +11/+6/+1         7        3                  7   
+11  12th         +12/+7/+2         8        4                  8   
+12  13th         +13/+8/+3         8        4                  8   
+13  14th         +14/+9/+4         9        4                  9   
+14  15th        +15/+10/+5         9        5                  9   
+15  16th     +16/+11/+6/+1        10        5                 10   
+16  17th     +17/+12/+7/+2        10        5                 10   
+17  18th     +18/+13/+8/+3        11        6                 11   
+18  19th     +19/+14/+9/+4        11        6                 11   
+19  20th    +20/+15/+10/+5        12        6                 12   
+
+                                        Special     Spells per Day                               Unnamed: 5_level_1 Unnamed: 6_level_1   
+0   Aura of good, detect evil, smite evil 1/day                  —   
+1                    Divine grace, lay on hands                  —   
+2         Aura of courage, divine health, mercy                  —   
+3     Channel positive energy, smite evil 2/day                  0   
+4                                   Divine bond                  1   
+5                                         Mercy                  1   
+6                              Smite evil 3/day                  1   
+7                               Aura of resolve                  1   
+8                                         Mercy                  2   
+9                              Smite evil 4/day                  2   
+10                              Aura of justice                  2   
+11                                        Mercy                  2   
+12                             Smite evil 5/day                  3   
+13                                Aura of faith                  3   
+14                                        Mercy                  3   
+15                             Smite evil 6/day                  3   
+16                        Aura of righteousness                  4   
+17                                        Mercy                  4   
+18                             Smite evil 7/day                  4   
+19                                Holy champion                  4   
+
+   Unnamed: 7_level_0 Unnamed: 8_level_0 Unnamed: 9_level_0  
+   Unnamed: 7_level_1 Unnamed: 8_level_1 Unnamed: 9_level_1  
+0                   —                  —                  —  
+1                   —                  —                  —  
+2                   —                  —                  —  
+3                   —                  —                  —  
+4                   —                  —                  —  
+5                   —                  —                  —  
+6                   0                  —                  —  
+7                   1                  —                  —  
+8                   1                  —                  —  
+9                   1                  0                  —  
+10                  1                  1                  —  
+11                  2                  1                  —  
+12                  2                  1                  0  
+13                  2                  1                  1  
+14                  2                  2                  1  
+15                  3                  2                  1  
+16                  3                  2                  1  
+17                  3                  2                  2  
+18                  3                  3                  2  
+19                  4                  3                  3         Race                                              Bonus        
+
+
+
+
+-=-=-=-=-=-=-=-monk=-=-=-=-=-=-=-=
+                                                Level  Base Attack Bonus  0   Table: Monk Level Base Attack Bonus Fort Save ...              Level   
+1                                               Level  Base Attack Bonus   
+2                                                 1st                 +0   
+3                                                 2nd                 +1   
+4                                                 3rd                 +2   
+5                                                 4th                 +3   
+6                                                 5th                 +3   
+7                                                 6th                 +4   
+8                                                 7th                 +5   
+9                                                 8th              +6/+1   
+10                                                9th              +6/+1   
+11                                               10th              +7/+2   
+12                                               11th              +8/+3   
+13                                               12th              +9/+4   
+14                                               13th              +9/+4   
+15                                               14th             +10/+5   
+16                                               15th          +11/+6/+1   
+17                                               16th          +12/+7/+2   
+18                                               17th          +12/+7/+2   
+19                                               18th          +13/+8/+3   
+20                                               19th          +14/+9/+4   
+21                                               20th         +15/+10/+5   
+
+            Fort Save   Ref Save  Will Save  0   Base Attack Bonus  Fort Save   Ref Save   
+1           Fort Save   Ref Save  Will Save   
+2                  +2         +2         +2   
+3                  +3         +3         +3   
+4                  +3         +3         +3   
+5                  +4         +4         +4   
+6                  +4         +4         +4   
+7                  +5         +5         +5   
+8                  +5         +5         +5   
+9                  +6         +6         +6   
+10                 +6         +6         +6   
+11                 +7         +7         +7   
+12                 +7         +7         +7   
+13                 +8         +8         +8   
+14                 +8         +8         +8   
+15                 +9         +9         +9   
+16                 +9         +9         +9   
+17                +10        +10        +10   
+18                +10        +10        +10   
+19                +11        +11        +11   
+20                +11        +11        +11   
+21                +12        +12        +12   
+
+                                              Special  0                                           Will Save   
+1                                             Special   
+2   Bonus feat, flurry of blows, stunning fist, un...   
+3                                 Bonus feat, evasion   
+4        Fast movement, maneuver training, still mind   
+5                   Ki pool (magic), slow fall 20 ft.   
+6                           High jump, purity of body   
+7                        Bonus feat, slow fall 30 ft.   
+8       Ki pool (cold iron/silver), wholeness of body   
+9                                    Slow fall 40 ft.   
+10                                   Improved evasion   
+11     Bonus feat, Ki pool (lawful), slow fall 50 ft.   
+12                                       Diamond body   
+13                    Abundant step, slow fall 60 ft.   
+14                                       Diamond soul   
+15                       Bonus feat, slow fall 70 ft.   
+16                                     Quivering palm   
+17             Ki pool (adamantine), slow fall 80 ft.   
+18          Timeless body, tongue of the sun and moon   
+19                       Bonus feat, slow fall 90 ft.   
+20                                         Empty body   
+21               Perfect self, slow fall any distance   
+
+    Flurry of Blows Attack Bonus                Unarmed Damage  0                        Special  Flurry of Blows Attack Bonus   
+1   Flurry of Blows Attack Bonus                Unarmed Damage   
+2                          –1/–1                           1d6   
+3                          +0/+0                           1d6   
+4                          +1/+1                           1d6   
+5                          +2/+2                           1d8   
+6                          +3/+3                           1d8   
+7                       +4/+4/–1                           1d8   
+8                       +5/+5/+0                           1d8   
+9                    +6/+6/+1/+1                          1d10   
+10                   +7/+7/+2/+2                          1d10   
+11                   +8/+8/+3/+3                          1d10   
+12                +9/+9/+4/+4/–1                          1d10   
+13              +10/+10/+5/+5/+0                           2d6   
+14              +11/+11/+6/+6/+1                           2d6   
+15              +12/+12/+7/+7/+2                           2d6   
+16           +13/+13/+8/+8/+3/+3                           2d6   
+17        +14/+14/+9/+9/+4/+4/–1                           2d8   
+18      +15/+15/+10/+10/+5/+5/+0                           2d8   
+19      +16/+16/+11/+11/+6/+6/+1                           2d8   
+20      +17/+17/+12/+12/+7/+7/+2                           2d8   
+21      +18/+18/+13/+13/+8/+8/+3                          2d10   
+
+          AC Bonus  Fast Movement      ...      Unnamed: 202 Unnamed: 203  0   Unarmed Damage       AC Bonus      ...        +15/+10/+5         12.0   
+1         AC Bonus  Fast Movement      ...               NaN          NaN   
+2               +0         +0 ft.      ...               NaN          NaN   
+3               +0         +0 ft.      ...               NaN          NaN   
+4               +0        +10 ft.      ...               NaN          NaN   
+5               +1        +10 ft.      ...               NaN          NaN   
+6               +1        +10 ft.      ...               NaN          NaN   
+7               +1        +20 ft.      ...               NaN          NaN   
+8               +1        +20 ft.      ...               NaN          NaN   
+9               +2        +20 ft.      ...               NaN          NaN   
+10              +2        +30 ft.      ...               NaN          NaN   
+11              +2        +30 ft.      ...               NaN          NaN   
+12              +2        +30 ft.      ...               NaN          NaN   
+13              +3        +40 ft.      ...               NaN          NaN   
+14              +3        +40 ft.      ...               NaN          NaN   
+15              +3        +40 ft.      ...               NaN          NaN   
+16              +3        +50 ft.      ...               NaN          NaN   
+17              +4        +50 ft.      ...               NaN          NaN   
+18              +4        +50 ft.      ...               NaN          NaN   
+19              +4        +60 ft.      ...               NaN          NaN   
+20              +4        +60 ft.      ...               NaN          NaN   
+21              +5        +60 ft.      ...               NaN          NaN   
+
+    Unnamed: 204  Unnamed: 205                          Unnamed: 206  0           12.0          12.0  Perfect self, slow fall any distance   
+1            NaN           NaN                                   NaN   
+2            NaN           NaN                                   NaN   
+3            NaN           NaN                                   NaN   
+4            NaN           NaN                                   NaN   
+5            NaN           NaN                                   NaN   
+6            NaN           NaN                                   NaN   
+7            NaN           NaN                                   NaN   
+8            NaN           NaN                                   NaN   
+9            NaN           NaN                                   NaN   
+10           NaN           NaN                                   NaN   
+11           NaN           NaN                                   NaN   
+12           NaN           NaN                                   NaN   
+13           NaN           NaN                                   NaN   
+14           NaN           NaN                                   NaN   
+15           NaN           NaN                                   NaN   
+16           NaN           NaN                                   NaN   
+17           NaN           NaN                                   NaN   
+18           NaN           NaN                                   NaN   
+19           NaN           NaN                                   NaN   
+20           NaN           NaN                                   NaN   
+21           NaN           NaN                                   NaN   
+
+                Unnamed: 207 Unnamed: 208 Unnamed: 209 Unnamed: 210  0   +18/+18/+13/+13/+8/+8/+3         2d10          5.0      +60 ft.   
+1                        NaN          NaN          NaN          NaN   
+2                        NaN          NaN          NaN          NaN   
+3                        NaN          NaN          NaN          NaN   
+4                        NaN          NaN          NaN          NaN   
+5                        NaN          NaN          NaN          NaN   
+6                        NaN          NaN          NaN          NaN   
+7                        NaN          NaN          NaN          NaN   
+8                        NaN          NaN          NaN          NaN   
+9                        NaN          NaN          NaN          NaN   
+10                       NaN          NaN          NaN          NaN   
+11                       NaN          NaN          NaN          NaN   
+12                       NaN          NaN          NaN          NaN   
+13                       NaN          NaN          NaN          NaN   
+14                       NaN          NaN          NaN          NaN   
+15                       NaN          NaN          NaN          NaN   
+16                       NaN          NaN          NaN          NaN   
+17                       NaN          NaN          NaN          NaN   
+18                       NaN          NaN          NaN          NaN   
+19                       NaN          NaN          NaN          NaN   
+20                       NaN          NaN          NaN          NaN   
+21                       NaN          NaN          NaN          NaN   
+
+    Unnamed: 211  
+0            NaN  
+1            NaN  
+2            NaN  
+3            NaN  
+4            NaN  
+5            NaN  
+6            NaN  
+7            NaN  
+8            NaN  
+9            NaN  
+10           NaN  
+11           NaN  
+12           NaN  
+13           NaN  
+14           NaN  
+15           NaN  
+16           NaN  
+17           NaN  
+18           NaN  
+19           NaN  
+20           NaN  
+21           NaN  
+
+[22 rows x 212 columns]   Level Base Attack Bonus  Fort Save  Ref Save  Will Save  0    1st                +0          2         2          2   
+1    2nd                +1          3         3          3   
+2    3rd                +2          3         3          3   
+3    4th                +3          4         4          4   
+4    5th                +3          4         4          4   
+5    6th                +4          5         5          5   
+6    7th                +5          5         5          5   
+7    8th             +6/+1          6         6          6   
+8    9th             +6/+1          6         6          6   
+9   10th             +7/+2          7         7          7   
+10  11th             +8/+3          7         7          7   
+11  12th             +9/+4          8         8          8   
+12  13th             +9/+4          8         8          8   
+13  14th            +10/+5          9         9          9   
+14  15th         +11/+6/+1          9         9          9   
+15  16th         +12/+7/+2         10        10         10   
+16  17th         +12/+7/+2         10        10         10   
+17  18th         +13/+8/+3         11        11         11   
+18  19th         +14/+9/+4         11        11         11   
+19  20th        +15/+10/+5         12        12         12   
+
+                                              Special  0   Bonus feat, flurry of blows, stunning fist, un...   
+1                                 Bonus feat, evasion   
+2        Fast movement, maneuver training, still mind   
+3                   Ki pool (magic), slow fall 20 ft.   
+4                           High jump, purity of body   
+5                        Bonus feat, slow fall 30 ft.   
+6       Ki pool (cold iron/silver), wholeness of body   
+7                                    Slow fall 40 ft.   
+8                                    Improved evasion   
+9      Bonus feat, Ki pool (lawful), slow fall 50 ft.   
+10                                       Diamond body   
+11                    Abundant step, slow fall 60 ft.   
+12                                       Diamond soul   
+13                       Bonus feat, slow fall 70 ft.   
+14                                     Quivering palm   
+15             Ki pool (adamantine), slow fall 80 ft.   
+16          Timeless body, tongue of the sun and moon   
+17                       Bonus feat, slow fall 90 ft.   
+18                                         Empty body   
+19               Perfect self, slow fall any distance   
+
+   Flurry of Blows Attack Bonus Unarmed Damage  AC Bonus Fast Movement  
+0                         –1/–1            1d6         0        +0 ft.  
+1                         +0/+0            1d6         0        +0 ft.  
+2                         +1/+1            1d6         0       +10 ft.  
+3                         +2/+2            1d8         1       +10 ft.  
+4                         +3/+3            1d8         1       +10 ft.  
+5                      +4/+4/–1            1d8         1       +20 ft.  
+6                      +5/+5/+0            1d8         1       +20 ft.  
+7                   +6/+6/+1/+1           1d10         2       +20 ft.  
+8                   +7/+7/+2/+2           1d10         2       +30 ft.  
+9                   +8/+8/+3/+3           1d10         2       +30 ft.  
+10               +9/+9/+4/+4/–1           1d10         2       +30 ft.  
+11             +10/+10/+5/+5/+0            2d6         3       +40 ft.  
+12             +11/+11/+6/+6/+1            2d6         3       +40 ft.  
+13             +12/+12/+7/+7/+2            2d6         3       +40 ft.  
+14          +13/+13/+8/+8/+3/+3            2d6         3       +50 ft.  
+15       +14/+14/+9/+9/+4/+4/–1            2d8         4       +50 ft.  
+16     +15/+15/+10/+10/+5/+5/+0            2d8         4       +50 ft.  
+17     +16/+16/+11/+11/+6/+6/+1            2d8         4       +60 ft.  
+18     +17/+17/+12/+12/+7/+7/+2            2d8         4       +60 ft.  
+19     +18/+18/+13/+13/+8/+8/+3           2d10         5       +60 ft.         Level Damage (Small monk) Damage (Large monk)
+0    1st–3rd                 1d4                 1d8
+1    4th–7th                 1d6                 2d6
+2   8th–11th                 1d8                 2d8
+3  12th–15th                1d10                 3d6
+4  16th–19th                 2d6                 3d8
+5       20th                 2d8                 4d8           Race                                              Bonus            
+
+
+
+
+-=-=-=-=-=-=-=-cavalier=-=-=-=-=-=-=-=
+   Level Base Attack Bonus  Fort Save  Ref Save  Will Save  0    1st                +1          2         0          0   
+1    2nd                +2          3         0          0   
+2    3rd                +3          3         1          1   
+3    4th                +4          4         1          1   
+4    5th                +5          4         1          1   
+5    6th             +6/+1          5         2          2   
+6    7th             +7/+2          5         2          2   
+7    8th             +8/+3          6         2          2   
+8    9th             +9/+4          6         3          3   
+9   10th            +10/+5          7         3          3   
+10  11th         +11/+6/+1          7         3          3   
+11  12th         +12/+7/+2          8         4          4   
+12  13th         +13/+8/+3          8         4          4   
+13  14th         +14/+9/+4          9         4          4   
+14  15th        +15/+10/+5          9         5          5   
+15  16th     +16/+11/+6/+1         10         5          5   
+16  17th     +17/+12/+7/+2         10         5          5   
+17  18th     +18/+13/+8/+3         11         6          6   
+18  19th     +19/+14/+9/+4         11         6          6   
+19  20th    +20/+15/+10/+5         12         6          6   
+
+                                     Special  
+0   Challenge 1/day, mount, order, tactician  
+1                              Order ability  
+2                          Cavalier’s charge  
+3            Challenge 2/day, expert trainer  
+4                                     Banner  
+5                                 Bonus feat  
+6                            Challenge 3/day  
+7                              Order ability  
+8                          Greater tactician  
+9                            Challenge 4/day  
+10                             Mighty charge  
+11           Bonus feat, demanding challenge  
+12                           Challenge 5/day  
+13                            Greater banner  
+14                             Order ability  
+15                           Challenge 6/day  
+16                          Master tactician  
+17                                Bonus feat  
+18                           Challenge 7/day  
+19                            Supreme charge                                                     0  0  Cavalier OrdersCavalier Orders - Flaming Crab ...   
+
+                                                   1  
+0  Samurai Orders3rd Party PublishersSamurai Orde...                        Race                                              Bonus                       
+
+
+
+
+-=-=-=-=-=-=-=-barbarian=-=-=-=-=-=-=-=
+   Level Base Attack Bonus  Fort Save  Ref Save  Will Save  0    1st                +1          2         0          0   
+1    2nd                +2          3         0          0   
+2    3rd                +3          3         1          1   
+3    4th                +4          4         1          1   
+4    5th                +5          4         1          1   
+5    6th             +6/+1          5         2          2   
+6    7th             +7/+2          5         2          2   
+7    8th             +8/+3          6         2          2   
+8    9th             +9/+4          6         3          3   
+9   10th            +10/+5          7         3          3   
+10  11th         +11/+6/+1          7         3          3   
+11  12th         +12/+7/+2          8         4          4   
+12  13th         +13/+8/+3          8         4          4   
+13  14th         +14/+9/+4          9         4          4   
+14  15th        +15/+10/+5          9         5          5   
+15  16th     +16/+11/+6/+1         10         5          5   
+16  17th     +17/+12/+7/+2         10         5          5   
+17  18th     +18/+13/+8/+3         11         6          6   
+18  19th     +19/+14/+9/+4         11         6          6   
+19  20th    +20/+15/+10/+5         12         6          6   
+
+                             Special  
+0                Fast movement, rage  
+1          Rage power, uncanny dodge  
+2                      Trap sense +1  
+3                         Rage power  
+4             Improved uncanny dodge  
+5          Rage power, trap sense +2  
+6               Damage reduction 1/—  
+7                         Rage power  
+8                      Trap sense +3  
+9   Damage reduction 2/—, rage power  
+10                      Greater rage  
+11         Rage power, trap sense +4  
+12              Damage reduction 3/—  
+13      Indomitable will, rage power  
+14                     Trap sense +5  
+15  Damage reduction 4/—, rage power  
+16                     Tireless rage  
+17         Rage power, trap sense +6  
+18              Damage reduction 5/—  
+19           Mighty rage, rage power          Race                                              Bonus         
+
+
+
+
+-=-=-=-=-=-=-=-sorcerer=-=-=-=-=-=-=-=
+   Level Base Attack Bonus Fort Save Ref Save Will Save       1st               2nd       3rd      4th       5th   
+0    1st                +0         0        0         2   
+1    2nd                +1         0        0         3   
+2    3rd                +1         1        1         3   
+3    4th                +2         1        1         4   
+4    5th                +2         1        1         4   
+5    6th                +3         2        2         5   
+6    7th                +3         2        2         5   
+7    8th                +4         2        2         6   
+8    9th                +4         3        3         6   
+9   10th                +5         3        3         7   
+10  11th                +5         3        3         7   
+11  12th             +6/+1         4        4         8   
+12  13th             +6/+1         4        4         8   
+13  14th             +7/+2         4        4         9   
+14  15th             +7/+2         5        5         9   
+15  16th             +8/+3         5        5        10   
+16  17th             +8/+3         5        5        10   
+17  18th             +9/+4         6        6        11   
+18  19th             +9/+4         6        6        11   
+19  20th            +10/+5         6        6        12   
+
+                                        Special Spells per Day                                              6th            7th   
+0   Bloodline power, cantrips, eschew materials              3   
+1                                           NaN              4   
+2              Bloodline power, bloodline spell              5   
+3                                           NaN              6   
+4                               Bloodline spell              6   
+5                                           NaN              6   
+6               Bloodline feat, bloodline spell              6   
+7                                           NaN              6   
+8              Bloodline power, bloodline spell              6   
+9                                           NaN              6   
+10                              Bloodline spell              6   
+11                                          NaN              6   
+12              Bloodline feat, bloodline spell              6   
+13                                          NaN              6   
+14             Bloodline power, bloodline spell              6   
+15                                          NaN              6   
+16                              Bloodline spell              6   
+17                                          NaN              6   
+18              Bloodline feat, bloodline spell              6   
+19                              Bloodline power              6   
+
+   Unnamed: 7_level_0 Unnamed: 8_level_0 Unnamed: 9_level_0                    8th                9th Unnamed: 9_level_1   
+0                   —                  —                  —   
+1                   —                  —                  —   
+2                   —                  —                  —   
+3                   3                  —                  —   
+4                   4                  —                  —   
+5                   5                  3                  —   
+6                   6                  4                  —   
+7                   6                  5                  3   
+8                   6                  6                  4   
+9                   6                  6                  5   
+10                  6                  6                  6   
+11                  6                  6                  6   
+12                  6                  6                  6   
+13                  6                  6                  6   
+14                  6                  6                  6   
+15                  6                  6                  6   
+16                  6                  6                  6   
+17                  6                  6                  6   
+18                  6                  6                  6   
+19                  6                  6                  6   
+
+   Unnamed: 10_level_0 Unnamed: 11_level_0 Unnamed: 12_level_0     Unnamed: 10_level_1 Unnamed: 11_level_1 Unnamed: 12_level_1   
+0                    —                   —                   —   
+1                    —                   —                   —   
+2                    —                   —                   —   
+3                    —                   —                   —   
+4                    —                   —                   —   
+5                    —                   —                   —   
+6                    —                   —                   —   
+7                    —                   —                   —   
+8                    —                   —                   —   
+9                    3                   —                   —   
+10                   4                   —                   —   
+11                   5                   3                   —   
+12                   6                   4                   —   
+13                   6                   5                   3   
+14                   6                   6                   4   
+15                   6                   6                   5   
+16                   6                   6                   6   
+17                   6                   6                   6   
+18                   6                   6                   6   
+19                   6                   6                   6   
+
+   Unnamed: 13_level_0 Unnamed: 14_level_0  
+   Unnamed: 13_level_1 Unnamed: 14_level_1  
+0                    —                   —  
+1                    —                   —  
+2                    —                   —  
+3                    —                   —  
+4                    —                   —  
+5                    —                   —  
+6                    —                   —  
+7                    —                   —  
+8                    —                   —  
+9                    —                   —  
+10                   —                   —  
+11                   —                   —  
+12                   —                   —  
+13                   —                   —  
+14                   —                   —  
+15                   3                   —  
+16                   4                   —  
+17                   5                   3  
+18                   6                   4  
+19                   6                   6     Level Spells Known Unnamed: 2_level_0 Unnamed: 3_level_0       0th          1st                2nd                3rd   
+0    1st            4                  2                  —   
+1    2nd            5                  2                  —   
+2    3rd            5                  3                  —   
+3    4th            6                  3                  1   
+4    5th            6                  4                  2   
+5    6th            7                  4                  2   
+6    7th            7                  5                  3   
+7    8th            8                  5                  3   
+8    9th            8                  5                  4   
+9   10th            9                  5                  4   
+10  11th            9                  5                  5   
+11  12th            9                  5                  5   
+12  13th            9                  5                  5   
+13  14th            9                  5                  5   
+14  15th            9                  5                  5   
+15  16th            9                  5                  5   
+16  17th            9                  5                  5   
+17  18th            9                  5                  5   
+18  19th            9                  5                  5   
+19  20th            9                  5                  5   
+
+   Unnamed: 4_level_0 Unnamed: 5_level_0 Unnamed: 6_level_0                    4th                5th                6th   
+0                   —                  —                  —   
+1                   —                  —                  —   
+2                   —                  —                  —   
+3                   —                  —                  —   
+4                   —                  —                  —   
+5                   1                  —                  —   
+6                   2                  —                  —   
+7                   2                  1                  —   
+8                   3                  2                  —   
+9                   3                  2                  1   
+10                  4                  3                  2   
+11                  4                  3                  2   
+12                  4                  4                  3   
+13                  4                  4                  3   
+14                  4                  4                  4   
+15                  4                  4                  4   
+16                  4                  4                  4   
+17                  4                  4                  4   
+18                  4                  4                  4   
+19                  4                  4                  4   
+
+   Unnamed: 7_level_0 Unnamed: 8_level_0 Unnamed: 9_level_0                    7th                8th                9th   
+0                   —                  —                  —   
+1                   —                  —                  —   
+2                   —                  —                  —   
+3                   —                  —                  —   
+4                   —                  —                  —   
+5                   —                  —                  —   
+6                   —                  —                  —   
+7                   —                  —                  —   
+8                   —                  —                  —   
+9                   —                  —                  —   
+10                  —                  —                  —   
+11                  1                  —                  —   
+12                  2                  —                  —   
+13                  2                  1                  —   
+14                  3                  2                  —   
+15                  3                  2                  1   
+16                  3                  3                  2   
+17                  3                  3                  2   
+18                  3                  3                  3   
+19                  3                  3                  3   
+
+   Unnamed: 10_level_0  
+   Unnamed: 10_level_1  
+0                    —  
+1                    —  
+2                    —  
+3                    —  
+4                    —  
+5                    —  
+6                    —  
+7                    —  
+8                    —  
+9                    —  
+10                   —  
+11                   —  
+12                   —  
+13                   —  
+14                   —  
+15                   —  
+16                   —  
+17                   1  
+18                   2  
+19                   3                                                     0  0  Sorcerer Bloodlines from 
+
+
+
+
+-=-=-=-=-=-=-=-druid=-=-=-=-=-=-=-=
+       0                  1          2         3          4   0   Level  Base Attack Bonus  Fort Save  Ref Save  Will Save   
+1     0th                1st        2nd       3rd        4th   
+2     1st                 +0         +2        +0         +2   
+3     2nd                 +1         +3        +0         +3   
+4     3rd                 +2         +3        +1         +3   
+5     4th                 +3         +4        +1         +4   
+6     5th                 +3         +4        +1         +4   
+7     6th                 +4         +5        +2         +5   
+8     7th                 +5         +5        +2         +5   
+9     8th              +6/+1         +6        +2         +6   
+10    9th              +6/+1         +6        +3         +6   
+11   10th              +7/+2         +7        +3         +7   
+12   11th              +8/+3         +7        +3         +7   
+13   12th              +9/+4         +8        +4         +8   
+14   13th              +9/+4         +8        +4         +8   
+15   14th             +10/+5         +9        +4         +9   
+16   15th          +11/+6/+1         +9        +5         +9   
+17   16th          +12/+7/+2        +10        +5        +10   
+18   17th          +12/+7/+2        +10        +5        +10   
+19   18th          +13/+8/+3        +11        +6        +11   
+20   19th          +14/+9/+4        +11        +6        +11   
+21   20th         +15/+10/+5        +12        +6        +12   
+
+                                                  5               6    7   0                                            Special  Spells Per Day  NaN   
+1                                                5th             6th  7th   
+2   Nature bond, nature sense, orisons, wild empathy               3    1   
+3                                    Woodland stride               4    2   
+4                                     Trackless step               4    2   
+5           Resist nature’s lure, wild shape (1/day)               4    3   
+6                                                NaN               4    3   
+7                                 Wild shape (2/day)               4    3   
+8                                                NaN               4    4   
+9                                 Wild shape (3/day)               4    4   
+10                                    Venom immunity               4    4   
+11                                Wild shape (4/day)               4    4   
+12                                               NaN               4    4   
+13                                Wild shape (5/day)               4    4   
+14                                  A thousand faces               4    4   
+15                                Wild shape (6/day)               4    4   
+16                                     Timeless body               4    4   
+17                                Wild shape (7/day)               4    4   
+18                                               NaN               4    4   
+19                                Wild shape (8/day)               4    4   
+20                                               NaN               4    4   
+21                              Wild shape (at will)               4    4   
+
+     8    9    10   11   12   13   14   15  
+0   NaN  NaN  NaN  NaN  NaN  NaN  NaN  NaN  
+1   8th  9th  NaN  NaN  NaN  NaN  NaN  NaN  
+2     —    —    —    —    —    —    —    —  
+3     —    —    —    —    —    —    —    —  
+4     1    —    —    —    —    —    —    —  
+5     2    —    —    —    —    —    —    —  
+6     2    1    —    —    —    —    —    —  
+7     3    2    —    —    —    —    —    —  
+8     3    2    1    —    —    —    —    —  
+9     3    3    2    —    —    —    —    —  
+10    4    3    2    1    —    —    —    —  
+11    4    3    3    2    —    —    —    —  
+12    4    4    3    2    1    —    —    —  
+13    4    4    3    3    2    —    —    —  
+14    4    4    4    3    2    1    —    —  
+15    4    4    4    3    3    2    —    —  
+16    4    4    4    4    3    2    1    —  
+17    4    4    4    4    3    3    2    —  
+18    4    4    4    4    4    3    2    1  
+19    4    4    4    4    4    3    3    2  
+20    4    4    4    4    4    4    3    3  
+21    4    4    4    4    4    4    4    4         Race                                              Bonus        
+
+
+
+
+-=-=-=-=-=-=-=-gunslinger=-=-=-=-=-=-=-=
+        0                  1          2         3          4  0   Level  Base Attack Bonus  Fort Save  Ref Save  Will Save   
+1     1st                 +1         +2        +2         +0   
+2     2nd                 +2         +3        +3         +0   
+3     3rd                 +3         +3        +3         +1   
+4     4th                 +4         +4        +4         +1   
+5     5th                 +5         +4        +4         +1   
+6     6th              +6/+1         +5        +5         +2   
+7     7th              +7/+2         +5        +5         +2   
+8     8th              +8/+3         +6        +6         +2   
+9     9th              +9/+4         +6        +6         +3   
+10   10th             +10/+5         +7        +7         +3   
+11   11th          +11/+6/+1         +7        +7         +3   
+12   12th          +12/+7/+2         +8        +8         +4   
+13   13th          +13/+8/+3         +8        +8         +4   
+14   14th          +14/+9/+4         +9        +9         +4   
+15   15th         +15/+10/+5         +9        +9         +5   
+16   16th      +16/+11/+6/+1        +10       +10         +5   
+17   17th      +17/+12/+7/+2        +10       +10         +5   
+18   18th      +18/+13/+8/+3        +11       +11         +6   
+19   19th      +19/+14/+9/+4        +11       +11         +6   
+20   20th     +20/+15/+10/+5        +12       +12         +6   
+
+                        5  
+0                 Special  
+1   Deeds, grit, gunsmith  
+2               Nimble +1  
+3                   Deeds  
+4              Bonus feat  
+5          Gun training 1  
+6               Nimble +2  
+7                   Deeds  
+8              Bonus feat  
+9          Gun training 2  
+10              Nimble +3  
+11                  Deeds  
+12             Bonus feat  
+13         Gun training 3  
+14              Nimble +4  
+15                  Deeds  
+16             Bonus feat  
+17         Gun training 4  
+18              Nimble +5  
+19                  Deeds  
+20  Bonus feat, true grit                        Race                                              Bonus                       
+
+
+
+
+-=-=-=-=-=-=-=-wizard=-=-=-=-=-=-=-=
+       0                  1          2         3          4        5  0  Level  Base Attack Bonus  Fort Save  Ref Save  Will Save  Special   
+1    0th                1st        2nd       3rd        4th      5th   
+
+                6    7    8    9  
+0  Spells per Day  NaN  NaN  NaN  
+1             6th  7th  8th  9th             Race                                              Bonus            
+
+
+
+
+-=-=-=-=-=-=-=-magus=-=-=-=-=-=-=-=
+   Level         BAB Fort Save Ref Save Will Save         0         1st       2nd      3rd       4th   
+0    1st          +0         2        0         2   
+1    2nd          +1         3        0         3   
+2    3rd          +2         3        1         3   
+3    4th          +3         4        1         4   
+4    5th          +3         4        1         4   
+5    6th          +4         5        2         5   
+6    7th          +5         5        2         5   
+7    8th       +6/+1         6        2         6   
+8    9th       +6/+1         6        3         6   
+9   10th       +7/+2         7        3         7   
+10  11th       +8/+3         7        3         7   
+11  12th       +9/+4         8        4         8   
+12  13th       +9/+4         8        4         8   
+13  14th      +10/+5         9        4         9   
+14  15th   +11/+6/+1         9        5         9   
+15  16th   +12/+7/+2        10        5        10   
+16  17th   +12/+7/+2        10        5        10   
+17  18th   +13/+8/+3        11        6        11   
+18  19th   +14/+9/+4        11        6        11   
+19  20th  +15/+10/+5        12        6        12   
+
+                                Special Spells per Day Unnamed: 7_level_0                                      5th            6th Unnamed: 7_level_1   
+0   Arcane pool, cantrips, spell combat              3                  1   
+1                           Spellstrike              4                  2   
+2                          Magus arcana              4                  3   
+3                          Spell recall              4                  3   
+4                            Bonus feat              4                  4   
+5                          Magus arcana              5                  4   
+6          Knowledge pool, medium armor              5                  4   
+7                 Improved spell combat              5                  4   
+8                          Magus arcana              5                  5   
+9                      Fighter training              5                  5   
+10    Bonus feat, improved spell recall              5                  5   
+11                         Magus arcana              5                  5   
+12                          Heavy armor              5                  5   
+13                 Greater spell combat              5                  5   
+14                         Magus arcana              5                  5   
+15                        Counterstrike              5                  5   
+16                           Bonus feat              5                  5   
+17                         Magus arcana              5                  5   
+18                 Greater spell access              5                  5   
+19                           True magus              5                  5   
+
+   Unnamed: 8_level_0 Unnamed: 9_level_0 Unnamed: 10_level_0     Unnamed: 8_level_1 Unnamed: 9_level_1 Unnamed: 10_level_1   
+0                   —                  —                   —   
+1                   —                  —                   —   
+2                   —                  —                   —   
+3                   1                  —                   —   
+4                   2                  —                   —   
+5                   3                  —                   —   
+6                   3                  1                   —   
+7                   4                  2                   —   
+8                   4                  3                   —   
+9                   4                  3                   1   
+10                  4                  4                   2   
+11                  5                  4                   3   
+12                  5                  4                   3   
+13                  5                  4                   4   
+14                  5                  5                   4   
+15                  5                  5                   4   
+16                  5                  5                   4   
+17                  5                  5                   5   
+18                  5                  5                   5   
+19                  5                  5                   5   
+
+   Unnamed: 11_level_0 Unnamed: 12_level_0  
+   Unnamed: 11_level_1 Unnamed: 12_level_1  
+0                    —                   —  
+1                    —                   —  
+2                    —                   —  
+3                    —                   —  
+4                    —                   —  
+5                    —                   —  
+6                    —                   —  
+7                    —                   —  
+8                    —                   —  
+9                    —                   —  
+10                   —                   —  
+11                   —                   —  
+12                   1                   —  
+13                   2                   —  
+14                   3                   —  
+15                   3                   1  
+16                   4                   2  
+17                   4                   3  
+18                   5                   4  
+19                   5                   5                           0                                                  1  0                     Race                                              Bonus   
+1                    
+
+
+
+
+-=-=-=-=-=-=-=-summoner=-=-=-=-=-=-=-=
+   Level Base Attack Bonus Fort Save Ref Save Will Save       1st               2nd       3rd      4th       5th   
+0    1st                +0         0        0         2   
+1    2nd                +1         0        0         3   
+2    3rd                +2         1        1         3   
+3    4th                +3         1        1         4   
+4    5th                +3         1        1         4   
+5    6th                +4         2        2         5   
+6    7th                +5         2        2         5   
+7    8th             +6/+1         2        2         6   
+8    9th             +6/+1         3        3         6   
+9   10th             +7/+2         3        3         7   
+10  11th             +8/+3         3        3         7   
+11  12th             +9/+4         4        4         8   
+12  13th             +9/+4         4        4         8   
+13  14th            +10/+5         4        4         9   
+14  15th         +11/+6/+1         5        5         9   
+15  16th         +12/+7/+2         5        5        10   
+16  17th         +12/+7/+2         5        5        10   
+17  18th         +13/+8/+3         6        6        11   
+18  19th         +14/+9/+4         6        6        11   
+19  20th        +15/+10/+5         6        6        12   
+
+                                           Special     Spells per Day                                                 6th Unnamed: 6_level_1   
+0   Cantrips, Eidolon, Life link, Summon monster I                  1   
+1                                      Bond senses                  2   
+2                                Summon monster II                  3   
+3                                      Shield ally                  3   
+4                               Summon monster III                  4   
+5                                     Maker’s call                  4   
+6                                Summon monster IV                  4   
+7                                    Transposition                  4   
+8                                 Summon monster V                  5   
+9                                           Aspect                  5   
+10                               Summon monster VI                  5   
+11                             Greater shield ally                  5   
+12                              Summon monster VII                  5   
+13                                       Life bond                  5   
+14                             Summon monster VIII                  5   
+15                                     Merge forms                  5   
+16                               Summon monster IX                  5   
+17                                  Greater aspect                  5   
+18                                            Gate                  5   
+19                                    Twin eidolon                  5   
+
+   Unnamed: 7_level_0 Unnamed: 8_level_0 Unnamed: 9_level_0     Unnamed: 7_level_1 Unnamed: 8_level_1 Unnamed: 9_level_1   
+0                   —                  —                  —   
+1                   —                  —                  —   
+2                   —                  —                  —   
+3                   1                  —                  —   
+4                   2                  —                  —   
+5                   3                  —                  —   
+6                   3                  1                  —   
+7                   4                  2                  —   
+8                   4                  3                  —   
+9                   4                  3                  1   
+10                  4                  4                  2   
+11                  5                  4                  3   
+12                  5                  4                  3   
+13                  5                  4                  4   
+14                  5                  5                  4   
+15                  5                  5                  4   
+16                  5                  5                  4   
+17                  5                  5                  5   
+18                  5                  5                  5   
+19                  5                  5                  5   
+
+   Unnamed: 10_level_0 Unnamed: 11_level_0  
+   Unnamed: 10_level_1 Unnamed: 11_level_1  
+0                    —                   —  
+1                    —                   —  
+2                    —                   —  
+3                    —                   —  
+4                    —                   —  
+5                    —                   —  
+6                    —                   —  
+7                    —                   —  
+8                    —                   —  
+9                    —                   —  
+10                   —                   —  
+11                   —                   —  
+12                   1                   —  
+13                   2                   —  
+14                   3                   —  
+15                   3                   1  
+16                   4                   2  
+17                   4                   3  
+18                   5                   4  
+19                   5                   5     Level  0th  1st 2nd 3rd 4th 5th 6th
+0    1st    4    2   —   —   —   —   —
+1    2nd    5    3   —   —   —   —   —
+2    3rd    6    4   —   —   —   —   —
+3    4th    6    4   2   —   —   —   —
+4    5th    6    4   3   —   —   —   —
+5    6th    6    4   4   —   —   —   —
+6    7th    6    5   4   2   —   —   —
+7    8th    6    5   4   3   —   —   —
+8    9th    6    5   4   4   —   —   —
+9   10th    6    5   5   4   2   —   —
+10  11th    6    6   5   4   3   —   —
+11  12th    6    6   5   4   4   —   —
+12  13th    6    6   5   5   4   2   —
+13  14th    6    6   6   5   4   3   —
+14  15th    6    6   6   5   4   4   —
+15  16th    6    6   6   5   5   4   2
+16  17th    6    6   6   6   5   4   3
+17  18th    6    6   6   6   5   4   4
+18  19th    6    6   6   6   5   5   4
+19  20th    6    6   6   6   6   5   5                         0                                                  1  0                     Race                                              Bonus   
+1                    
+
+
+
+
+-=-=-=-=-=-=-=-rogue=-=-=-=-=-=-=-=
+   Level Base Attack Bonus  Fort Save  Ref Save  Will Save  0    1st                +0          0         2          0   
+1    2nd                +1          0         3          0   
+2    3rd                +2          1         3          1   
+3    4th                +3          1         4          1   
+4    5th                +3          1         4          1   
+5    6th                +4          2         5          2   
+6    7th                +5          2         5          2   
+7    8th             +6/+1          2         6          2   
+8    9th             +6/+1          3         6          3   
+9   10th             +7/+2          3         7          3   
+10  11th             +8/+3          3         7          3   
+11  12th             +9/+4          4         8          4   
+12  13th             +9/+4          4         8          4   
+13  14th            +10/+5          4         9          4   
+14  15th         +11/+6/+1          5         9          5   
+15  16th         +12/+7/+2          5        10          5   
+16  17th         +12/+7/+2          5        10          5   
+17  18th         +13/+8/+3          6        11          6   
+18  19th         +14/+9/+4          6        11          6   
+19  20th        +15/+10/+5          6        12          6   
+
+                                 Special  
+0         Sneak attack +1d6, trapfinding  
+1                  Evasion, rogue talent  
+2       Sneak attack +2d6, trap sense +1  
+3            Rogue talent, uncanny dodge  
+4                      Sneak attack +3d6  
+5            Rogue talent, trap sense +2  
+6                      Sneak attack +4d6  
+7   Improved uncanny dodge, rogue talent  
+8       Sneak attack +5d6, trap sense +3  
+9         Advanced talents, rogue talent  
+10                     Sneak attack +6d6  
+11           Rogue talent, trap sense +4  
+12                     Sneak attack +7d6  
+13                          Rogue talent  
+14      Sneak attack +8d6, trap sense +5  
+15                          Rogue talent  
+16                     Sneak attack +9d6  
+17           Rogue talent, trap sense +6  
+18                    Sneak attack +10d6  
+19           Master strike, rogue talent         Race                                              Bonus        
+
+
+
+
+-=-=-=-=-=-=-=-ranger=-=-=-=-=-=-=-=
+   Level Base Attack Bonus Fort Save Ref Save          Will Save       1st               2nd       3rd      4th Unnamed: 4_level_1   
+0    1st                +1         2        2                  0   
+1    2nd                +2         3        3                  0   
+2    3rd                +3         3        3                  1   
+3    4th                +4         4        4                  1   
+4    5th                +5         4        4                  1   
+5    6th             +6/+1         5        5                  2   
+6    7th             +7/+2         5        5                  2   
+7    8th             +8/+3         6        6                  2   
+8    9th             +9/+4         6        6                  3   
+9   10th            +10/+5         7        7                  3   
+10  11th         +11/+6/+1         7        7                  3   
+11  12th         +12/+7/+2         8        8                  4   
+12  13th         +13/+8/+3         8        8                  4   
+13  14th         +14/+9/+4         9        9                  4   
+14  15th        +15/+10/+5         9        9                  5   
+15  16th     +16/+11/+6/+1        10       10                  5   
+16  17th     +17/+12/+7/+2        10       10                  5   
+17  18th     +18/+13/+8/+3        11       11                  6   
+18  19th     +19/+14/+9/+4        11       11                  6   
+19  20th    +20/+15/+10/+5        12       12                  6   
+
+                                   Special     Spells per Day                          Unnamed: 5_level_1 Unnamed: 6_level_1   
+0   1st favored enemy, track, wild empathy                  —   
+1                        Combat style feat                  —   
+2           Endurance, 1st favored terrain                  —   
+3                            Hunter’s bond                  0   
+4                        2nd favored enemy                  1   
+5                        Combat style feat                  1   
+6                          Woodland stride                  1   
+7       Swift tracker, 2nd favored terrain                  1   
+8                                  Evasion                  2   
+9     3rd favored enemy, combat style feat                  2   
+10                                  Quarry                  2   
+11                              Camouflage                  2   
+12                     3rd favored terrain                  3   
+13                       Combat style feat                  3   
+14                       4th favored enemy                  3   
+15                        Improved evasion                  3   
+16                     Hide in plain sight                  4   
+17  4th favored terrain, combat style feat                  4   
+18                         Improved quarry                  4   
+19        5th favored enemy, master hunter                  4   
+
+   Unnamed: 7_level_0 Unnamed: 8_level_0 Unnamed: 9_level_0  
+   Unnamed: 7_level_1 Unnamed: 8_level_1 Unnamed: 9_level_1  
+0                   —                  —                  —  
+1                   —                  —                  —  
+2                   —                  —                  —  
+3                   —                  —                  —  
+4                   —                  —                  —  
+5                   —                  —                  —  
+6                   0                  —                  —  
+7                   1                  —                  —  
+8                   1                  —                  —  
+9                   1                  0                  —  
+10                  1                  1                  —  
+11                  2                  1                  —  
+12                  2                  1                  0  
+13                  2                  1                  1  
+14                  2                  2                  1  
+15                  3                  2                  1  
+16                  3                  2                  1  
+17                  3                  2                  2  
+18                  3                  3                  2  
+19                  4                  3                  3                Type (Subtype)
+0                 Aberration
+1                     Animal
+2                  Construct
+3                     Dragon
+4                        Fey
+5         Humanoid (aquatic)
+6           Humanoid (dwarf)
+7             Humanoid (elf)
+8           Humanoid (giant)
+9       Humanoid (goblinoid)
+10          Humanoid (gnoll)
+11          Humanoid (gnome)
+12       Humanoid (halfling)
+13          Humanoid (human)
+14            Humanoid (orc)
+15      Humanoid (reptilian)
+16  Humanoid (other subtype)
+17             Magical beast
+18        Monstrous humanoid
+19                      Ooze
+20            Outsider (air)
+21        Outsider (chaotic)
+22          Outsider (earth)
+23           Outsider (evil)
+24           Outsider (fire)
+25           Outsider (good)
+26         Outsider (lawful)
+27         Outsider (native)
+28          Outsider (water)
+29                     Plant
+30                    Undead
+31                    Vermin                                Favored Terrains
+0         Cold (ice, glaciers, snow, and tundra)
+1                   Desert (sand and wastelands)
+2              Forest (coniferous and deciduous)
+3                                         Jungle
+4                     Mountain (including hills)
+5                                         Plains
+6   Planes (pick one, other than Material Plane)
+7                                          Swamp
+8               Underground (caves and dungeons)
+9         Urban (buildings, streets, and sewers)
+10           Water (above and below the surface)       Race                                              Bonus        
+
+
+
+
+-=-=-=-=-=-=-=-inquisitor=-=-=-=-=-=-=-=
+       0                  1          2         3          4   0   Level  Base Attack Bonus  Fort Save  Ref Save  Will Save   
+1     1st                2nd        3rd       4th        5th   
+2     1st                 +0         +2        +0         +2   
+3     2nd                 +1         +3        +0         +3   
+4     3rd                 +2         +3        +1         +3   
+5     4th                 +3         +4        +1         +4   
+6     5th                 +3         +4        +1         +4   
+7     6th                 +4         +5        +2         +5   
+8     7th                 +5         +5        +2         +5   
+9     8th              +6/+1         +6        +2         +6   
+10    9th              +6/+1         +6        +3         +6   
+11   10th              +7/+2         +7        +3         +7   
+12   11th              +8/+3         +7        +3         +7   
+13   12th              +9/+4         +8        +4         +8   
+14   13th              +9/+4         +8        +4         +8   
+15   14th             +10/+5         +9        +4         +9   
+16   15th          +11/+6/+1         +9        +5         +9   
+17   16th          +12/+7/+2        +10        +5        +10   
+18   17th          +12/+7/+2        +10        +5        +10   
+19   18th          +13/+8/+3        +11        +6        +11   
+20   19th          +14/+9/+4        +11        +6        +11   
+21   20th         +15/+10/+5        +12        +6        +12   
+
+                                                   5               6    7   0                                             Special  Spells per Day  NaN   
+1                                                 6th             NaN  NaN   
+2   Domain, judgment 1/day, monster lore, orisons,...               1    —   
+3         Cunning initiative, detect alignment, track               2    —   
+4                         Solo tactics, teamwork feat               3    —   
+5                                      Judgment 2/day               3    1   
+6                                  Bane, discern lies               4    2   
+7                                       Teamwork feat               4    3   
+8                                      Judgment 3/day               4    3   
+9                                     Second judgment               4    4   
+10                                      Teamwork feat               5    4   
+11                                     Judgment 4/day               5    4   
+12                                           Stalwart               5    4   
+13                        Greater bane, teamwork feat               5    5   
+14                                     Judgment 5/day               5    5   
+15                                   Exploit weakness               5    5   
+16                                      Teamwork feat               5    5   
+17                     Judgment 6/day, third judgment               5    5   
+18                                             Slayer               5    5   
+19                                      Teamwork feat               5    5   
+20                                     Judgment 7/day               5    5   
+21                                      True judgment               5    5   
+
+     8    9    10   11  
+0   NaN  NaN  NaN  NaN  
+1   NaN  NaN  NaN  NaN  
+2     —    —    —    —  
+3     —    —    —    —  
+4     —    —    —    —  
+5     —    —    —    —  
+6     —    —    —    —  
+7     —    —    —    —  
+8     1    —    —    —  
+9     2    —    —    —  
+10    3    —    —    —  
+11    3    1    —    —  
+12    4    2    —    —  
+13    4    3    —    —  
+14    4    3    1    —  
+15    4    4    2    —  
+16    5    4    3    —  
+17    5    4    3    1  
+18    5    4    4    2  
+19    5    5    4    3  
+20    5    5    5    4  
+21    5    5    5    5     Level Spells Known Unnamed: 2_level_0 Unnamed: 3_level_0       0th          1st                2nd                3rd   
+0    1st            4                  2                  —   
+1    2nd            5                  3                  —   
+2    3rd            6                  4                  —   
+3    4th            6                  4                  2   
+4    5th            6                  4                  3   
+5    6th            6                  4                  4   
+6    7th            6                  5                  4   
+7    8th            6                  5                  4   
+8    9th            6                  5                  4   
+9   10th            6                  5                  5   
+10  11th            6                  6                  5   
+11  12th            6                  6                  5   
+12  13th            6                  6                  5   
+13  14th            6                  6                  6   
+14  15th            6                  6                  6   
+15  16th            6                  6                  6   
+16  17th            6                  6                  6   
+17  18th            6                  6                  6   
+18  19th            6                  6                  6   
+19  20th            6                  6                  6   
+
+   Unnamed: 4_level_0 Unnamed: 5_level_0 Unnamed: 6_level_0 Unnamed: 7_level_0  
+                  4th                5th                6th Unnamed: 7_level_1  
+0                   —                  —                  —                  —  
+1                   —                  —                  —                  —  
+2                   —                  —                  —                  —  
+3                   —                  —                  —                  —  
+4                   —                  —                  —                  —  
+5                   —                  —                  —                  —  
+6                   2                  —                  —                  —  
+7                   3                  —                  —                  —  
+8                   4                  —                  —                  —  
+9                   4                  2                  —                  —  
+10                  4                  3                  —                  —  
+11                  4                  4                  —                  —  
+12                  5                  4                  2                  —  
+13                  5                  4                  3                  —  
+14                  5                  4                  4                  —  
+15                  5                  5                  4                  2  
+16                  6                  5                  4                  3  
+17                  6                  5                  4                  4  
+18                  6                  5                  5                  4  
+19                  6                  6                  5                  5                           0                                                  1  0                     Race                                              Bonus   
+1                    
+
+
+
+
+-=-=-=-=-=-=-=-alchemist=-=-=-=-=-=-=-=
+                                                Level  Base Attack Bonus                                                    1st                2nd   
+0   Table: AlchemistLevelBase Attack BonusFort Sav...              Level   
+1                                               Level  Base Attack Bonus   
+2                                                 1st                2nd   
+3                                                 1st                 +0   
+4                                                 2nd                 +1   
+5                                                 3rd                 +2   
+6                                                 4th                 +3   
+7                                                 5th                 +3   
+8                                                 6th                 +4   
+9                                                 7th                 +5   
+10                                                8th              +6/+1   
+11                                                9th              +6/+1   
+12                                               10th              +7/+2   
+13                                               11th              +8/+3   
+14                                               12th              +9/+4   
+15                                               13th              +9/+4   
+16                                               14th             +10/+5   
+17                                               15th          +11/+6/+1   
+18                                               16th          +12/+7/+2   
+19                                               17th          +12/+7/+2   
+20                                               18th          +13/+8/+3   
+21                                               19th          +14/+9/+4   
+22                                               20th         +15/+10/+5   
+
+            Fort Save   Ref Save  Will Save                    3rd        4th        5th   
+0   Base Attack Bonus  Fort Save   Ref Save   
+1           Fort Save   Ref Save  Will Save   
+2                 3rd        4th        5th   
+3                  +2         +2         +0   
+4                  +3         +3         +0   
+5                  +3         +3         +1   
+6                  +4         +4         +1   
+7                  +4         +4         +1   
+8                  +5         +5         +2   
+9                  +5         +5         +2   
+10                 +6         +6         +2   
+11                 +6         +6         +3   
+12                 +7         +7         +3   
+13                 +7         +7         +3   
+14                 +8         +8         +4   
+15                 +8         +8         +4   
+16                 +9         +9         +4   
+17                 +9         +9         +5   
+18                +10        +10         +5   
+19                +10        +10         +5   
+20                +11        +11         +6   
+21                +11        +11         +6   
+22                +12        +12         +6   
+
+                                              Special   Extracts per Day                                                    6th Unnamed: 6_level_1   
+0                                           Will Save            Special   
+1                                             Special   Extracts per Day   
+2                                                 6th                NaN   
+3   Alchemy, bomb 1d6, brew potion, mutagen, throw...                  1   
+4         Discovery, poison resistance +2, poison use                  2   
+5                             Bomb 2d6, swift alchemy                  3   
+6                                           Discovery                  3   
+7                      Bomb 3d6, poison resistance +4                  4   
+8                          Discovery, swift poisoning                  4   
+9                                            Bomb 4d6                  4   
+10                    Discovery, poison resistance +6                  4   
+11                                           Bomb 5d6                  5   
+12                         Discovery, poison immunity                  5   
+13                                           Bomb 6d6                  5   
+14                                          Discovery                  5   
+15                                           Bomb 7d6                  5   
+16                      Discovery, persistent mutagen                  5   
+17                                           Bomb 8d6                  5   
+18                                          Discovery                  5   
+19                                           Bomb 9d6                  5   
+20                         Discovery, instant alchemy                  5   
+21                                          Bomb 10d6                  5   
+22                                    Grand Discovery                  5   
+
+   Unnamed: 7_level_0 Unnamed: 8_level_0 Unnamed: 9_level_0     Unnamed: 7_level_1 Unnamed: 8_level_1 Unnamed: 9_level_1   
+0    Extracts per Day                1st                2nd   
+1                 NaN                NaN                NaN   
+2                 NaN                NaN                NaN   
+3                   —                  —                  —   
+4                   —                  —                  —   
+5                   —                  —                  —   
+6                   1                  —                  —   
+7                   2                  —                  —   
+8                   3                  —                  —   
+9                   3                  1                  —   
+10                  4                  2                  —   
+11                  4                  3                  —   
+12                  4                  3                  1   
+13                  4                  4                  2   
+14                  5                  4                  3   
+15                  5                  4                  3   
+16                  5                  4                  4   
+17                  5                  5                  4   
+18                  5                  5                  4   
+19                  5                  5                  4   
+20                  5                  5                  5   
+21                  5                  5                  5   
+22                  5                  5                  5   
+
+           ...          Unnamed: 245_level_0 Unnamed: 246_level_0             ...          Unnamed: 245_level_1 Unnamed: 246_level_1   
+0          ...                          12.0                  6.0   
+1          ...                           NaN                  NaN   
+2          ...                           NaN                  NaN   
+3          ...                           NaN                  NaN   
+4          ...                           NaN                  NaN   
+5          ...                           NaN                  NaN   
+6          ...                           NaN                  NaN   
+7          ...                           NaN                  NaN   
+8          ...                           NaN                  NaN   
+9          ...                           NaN                  NaN   
+10         ...                           NaN                  NaN   
+11         ...                           NaN                  NaN   
+12         ...                           NaN                  NaN   
+13         ...                           NaN                  NaN   
+14         ...                           NaN                  NaN   
+15         ...                           NaN                  NaN   
+16         ...                           NaN                  NaN   
+17         ...                           NaN                  NaN   
+18         ...                           NaN                  NaN   
+19         ...                           NaN                  NaN   
+20         ...                           NaN                  NaN   
+21         ...                           NaN                  NaN   
+22         ...                           NaN                  NaN   
+
+   Unnamed: 247_level_0 Unnamed: 248_level_0 Unnamed: 249_level_0     Unnamed: 247_level_1 Unnamed: 248_level_1 Unnamed: 249_level_1   
+0       Grand Discovery                  5.0                  5.0   
+1                   NaN                  NaN                  NaN   
+2                   NaN                  NaN                  NaN   
+3                   NaN                  NaN                  NaN   
+4                   NaN                  NaN                  NaN   
+5                   NaN                  NaN                  NaN   
+6                   NaN                  NaN                  NaN   
+7                   NaN                  NaN                  NaN   
+8                   NaN                  NaN                  NaN   
+9                   NaN                  NaN                  NaN   
+10                  NaN                  NaN                  NaN   
+11                  NaN                  NaN                  NaN   
+12                  NaN                  NaN                  NaN   
+13                  NaN                  NaN                  NaN   
+14                  NaN                  NaN                  NaN   
+15                  NaN                  NaN                  NaN   
+16                  NaN                  NaN                  NaN   
+17                  NaN                  NaN                  NaN   
+18                  NaN                  NaN                  NaN   
+19                  NaN                  NaN                  NaN   
+20                  NaN                  NaN                  NaN   
+21                  NaN                  NaN                  NaN   
+22                  NaN                  NaN                  NaN   
+
+   Unnamed: 250_level_0 Unnamed: 251_level_0 Unnamed: 252_level_0     Unnamed: 250_level_1 Unnamed: 251_level_1 Unnamed: 252_level_1   
+0                   5.0                  5.0                  5.0   
+1                   NaN                  NaN                  NaN   
+2                   NaN                  NaN                  NaN   
+3                   NaN                  NaN                  NaN   
+4                   NaN                  NaN                  NaN   
+5                   NaN                  NaN                  NaN   
+6                   NaN                  NaN                  NaN   
+7                   NaN                  NaN                  NaN   
+8                   NaN                  NaN                  NaN   
+9                   NaN                  NaN                  NaN   
+10                  NaN                  NaN                  NaN   
+11                  NaN                  NaN                  NaN   
+12                  NaN                  NaN                  NaN   
+13                  NaN                  NaN                  NaN   
+14                  NaN                  NaN                  NaN   
+15                  NaN                  NaN                  NaN   
+16                  NaN                  NaN                  NaN   
+17                  NaN                  NaN                  NaN   
+18                  NaN                  NaN                  NaN   
+19                  NaN                  NaN                  NaN   
+20                  NaN                  NaN                  NaN   
+21                  NaN                  NaN                  NaN   
+22                  NaN                  NaN                  NaN   
+
+   Unnamed: 253_level_0 Unnamed: 254_level_0  
+   Unnamed: 253_level_1 Unnamed: 254_level_1  
+0                   5.0                  NaN  
+1                   NaN                  NaN  
+2                   NaN                  NaN  
+3                   NaN                  NaN  
+4                   NaN                  NaN  
+5                   NaN                  NaN  
+6                   NaN                  NaN  
+7                   NaN                  NaN  
+8                   NaN                  NaN  
+9                   NaN                  NaN  
+10                  NaN                  NaN  
+11                  NaN                  NaN  
+12                  NaN                  NaN  
+13                  NaN                  NaN  
+14                  NaN                  NaN  
+15                  NaN                  NaN  
+16                  NaN                  NaN  
+17                  NaN                  NaN  
+18                  NaN                  NaN  
+19                  NaN                  NaN  
+20                  NaN                  NaN  
+21                  NaN                  NaN  
+22                  NaN                  NaN  
+
+[23 rows x 255 columns]   Level Base Attack Bonus Fort Save Ref Save Will Save       1st               2nd       3rd      4th       5th   
+0    1st                +0         2        2         0   
+1    2nd                +1         3        3         0   
+2    3rd                +2         3        3         1   
+3    4th                +3         4        4         1   
+4    5th                +3         4        4         1   
+5    6th                +4         5        5         2   
+6    7th                +5         5        5         2   
+7    8th             +6/+1         6        6         2   
+8    9th             +6/+1         6        6         3   
+9   10th             +7/+2         7        7         3   
+10  11th             +8/+3         7        7         3   
+11  12th             +9/+4         8        8         4   
+12  13th             +9/+4         8        8         4   
+13  14th            +10/+5         9        9         4   
+14  15th         +11/+6/+1         9        9         5   
+15  16th         +12/+7/+2        10       10         5   
+16  17th         +12/+7/+2        10       10         5   
+17  18th         +13/+8/+3        11       11         6   
+18  19th         +14/+9/+4        11       11         6   
+19  20th        +15/+10/+5        12       12         6   
+
+                                              Special   Extracts per Day                                                    6th Unnamed: 6_level_1   
+0   Alchemy, bomb 1d6, brew potion, mutagen, throw...                  1   
+1         Discovery, poison resistance +2, poison use                  2   
+2                             Bomb 2d6, swift alchemy                  3   
+3                                           Discovery                  3   
+4                      Bomb 3d6, poison resistance +4                  4   
+5                          Discovery, swift poisoning                  4   
+6                                            Bomb 4d6                  4   
+7                     Discovery, poison resistance +6                  4   
+8                                            Bomb 5d6                  5   
+9                          Discovery, poison immunity                  5   
+10                                           Bomb 6d6                  5   
+11                                          Discovery                  5   
+12                                           Bomb 7d6                  5   
+13                      Discovery, persistent mutagen                  5   
+14                                           Bomb 8d6                  5   
+15                                          Discovery                  5   
+16                                           Bomb 9d6                  5   
+17                         Discovery, instant alchemy                  5   
+18                                          Bomb 10d6                  5   
+19                                    Grand Discovery                  5   
+
+   Unnamed: 7_level_0 Unnamed: 8_level_0 Unnamed: 9_level_0     Unnamed: 7_level_1 Unnamed: 8_level_1 Unnamed: 9_level_1   
+0                   —                  —                  —   
+1                   —                  —                  —   
+2                   —                  —                  —   
+3                   1                  —                  —   
+4                   2                  —                  —   
+5                   3                  —                  —   
+6                   3                  1                  —   
+7                   4                  2                  —   
+8                   4                  3                  —   
+9                   4                  3                  1   
+10                  4                  4                  2   
+11                  5                  4                  3   
+12                  5                  4                  3   
+13                  5                  4                  4   
+14                  5                  5                  4   
+15                  5                  5                  4   
+16                  5                  5                  4   
+17                  5                  5                  5   
+18                  5                  5                  5   
+19                  5                  5                  5   
+
+   Unnamed: 10_level_0 Unnamed: 11_level_0  
+   Unnamed: 10_level_1 Unnamed: 11_level_1  
+0                    —                   —  
+1                    —                   —  
+2                    —                   —  
+3                    —                   —  
+4                    —                   —  
+5                    —                   —  
+6                    —                   —  
+7                    —                   —  
+8                    —                   —  
+9                    —                   —  
+10                   —                   —  
+11                   —                   —  
+12                   1                   —  
+13                   2                   —  
+14                   3                   —  
+15                   3                   1  
+16                   4                   2  
+17                   4                   3  
+18                   5                   4  
+19                   5                   5                        Race                                              Bonus                       
+
+
+
+
+-=-=-=-=-=-=-=-oracle=-=-=-=-=-=-=-=
+   Level Base Attack Bonus Fort Save Ref Save Will Save       1st               2nd       3rd      4th       5th   
+0    1st                +0         0        0         2   
+1    2nd                +1         0        0         3   
+2    3rd                +2         1        1         3   
+3    4th                +3         1        1         4   
+4    5th                +3         1        1         4   
+5    6th                +4         2        2         5   
+6    7th                +5         2        2         5   
+7    8th             +6/+1         2        2         6   
+8    9th             +6/+1         3        3         6   
+9   10th             +7/+2         3        3         7   
+10  11th             +8/+3         3        3         7   
+11  12th             +9/+4         4        4         8   
+12  13th             +9/+4         4        4         8   
+13  14th            +10/+5         4        4         9   
+14  15th         +11/+6/+1         5        5         9   
+15  16th         +12/+7/+2         5        5        10   
+16  17th         +12/+7/+2         5        5        10   
+17  18th         +13/+8/+3         6        6        11   
+18  19th         +14/+9/+4         6        6        11   
+19  20th        +15/+10/+5         6        6        12   
+
+                                         Special Spells Unnamed: 7_level_0                                               6th    7th                8th   
+0   Mystery, oracle’s curse, orisons, revelation      3                  —   
+1                                  Mystery spell      4                  —   
+2                                     Revelation      5                  —   
+3                                  Mystery spell      6                  3   
+4                                            NaN      6                  4   
+5                                  Mystery spell      6                  5   
+6                                     Revelation      6                  6   
+7                                  Mystery spell      6                  6   
+8                                            NaN      6                  6   
+9                                  Mystery spell      6                  6   
+10                                    Revelation      6                  6   
+11                                 Mystery spell      6                  6   
+12                                           NaN      6                  6   
+13                                 Mystery spell      6                  6   
+14                                    Revelation      6                  6   
+15                                 Mystery spell      6                  6   
+16                                           NaN      6                  6   
+17                                 Mystery spell      6                  6   
+18                                    Revelation      6                  6   
+19                              Final revelation      6                  6   
+
+   Unnamed: 8_level_0 Unnamed: 9_level_0 Unnamed: 10_level_0                    9th Unnamed: 9_level_1 Unnamed: 10_level_1   
+0                   —                  —                   —   
+1                   —                  —                   —   
+2                   —                  —                   —   
+3                   —                  —                   —   
+4                   —                  —                   —   
+5                   3                  —                   —   
+6                   4                  —                   —   
+7                   5                  3                   —   
+8                   6                  4                   —   
+9                   6                  5                   3   
+10                  6                  6                   4   
+11                  6                  6                   5   
+12                  6                  6                   6   
+13                  6                  6                   6   
+14                  6                  6                   6   
+15                  6                  6                   6   
+16                  6                  6                   6   
+17                  6                  6                   6   
+18                  6                  6                   6   
+19                  6                  6                   6   
+
+   Unnamed: 11_level_0 Unnamed: 12_level_0 Unnamed: 13_level_0     Unnamed: 11_level_1 Unnamed: 12_level_1 Unnamed: 13_level_1   
+0                    —                   —                   —   
+1                    —                   —                   —   
+2                    —                   —                   —   
+3                    —                   —                   —   
+4                    —                   —                   —   
+5                    —                   —                   —   
+6                    —                   —                   —   
+7                    —                   —                   —   
+8                    —                   —                   —   
+9                    —                   —                   —   
+10                   —                   —                   —   
+11                   3                   —                   —   
+12                   4                   —                   —   
+13                   5                   3                   —   
+14                   6                   4                   —   
+15                   6                   5                   3   
+16                   6                   6                   4   
+17                   6                   6                   5   
+18                   6                   6                   6   
+19                   6                   6                   6   
+
+   Unnamed: 14_level_0  
+   Unnamed: 14_level_1  
+0                    —  
+1                    —  
+2                    —  
+3                    —  
+4                    —  
+5                    —  
+6                    —  
+7                    —  
+8                    —  
+9                    —  
+10                   —  
+11                   —  
+12                   —  
+13                   —  
+14                   —  
+15                   —  
+16                   —  
+17                   3  
+18                   4  
+19                   6     Level  0th  1st 2nd 3rd 4th 5th 6th 7th 8th 9th
+0    1st    4    2   —   —   —   —   —   —   —   —
+1    2nd    5    2   —   —   —   —   —   —   —   —
+2    3rd    5    3   —   —   —   —   —   —   —   —
+3    4th    6    3   1   —   —   —   —   —   —   —
+4    5th    6    4   2   —   —   —   —   —   —   —
+5    6th    7    4   2   1   —   —   —   —   —   —
+6    7th    7    5   3   2   —   —   —   —   —   —
+7    8th    8    5   3   2   1   —   —   —   —   —
+8    9th    8    5   4   3   2   —   —   —   —   —
+9   10th    9    5   4   3   2   1   —   —   —   —
+10  11th    9    5   5   4   3   2   —   —   —   —
+11  12th    9    5   5   4   3   2   1   —   —   —
+12  13th    9    5   5   4   4   3   2   —   —   —
+13  14th    9    5   5   4   4   3   2   1   —   —
+14  15th    9    5   5   4   4   4   3   2   —   —
+15  16th    9    5   5   4   4   4   3   2   1   —
+16  17th    9    5   5   4   4   4   3   3   2   —
+17  18th    9    5   5   4   4   4   3   3   2   1
+18  19th    9    5   5   4   4   4   3   3   3   2
+19  20th    9    5   5   4   4   4   3   3   3   3                                                   0  0  
+
+
+
+
+-=-=-=-=-=-=-=-bard=-=-=-=-=-=-=-=
+                                                Level         BAB  Fort Save                                                    1st         2nd        3rd   
+0   Table: Bard  Level  BAB  Fort Save  Ref Save  ...       Level        BAB   
+1                                               Level         BAB  Fort Save   
+2                                                 1st         2nd        3rd   
+3                                                 1st          +0         +0   
+4                                                 2nd          +1         +0   
+5                                                 3rd          +2         +1   
+6                                                 4th          +3         +1   
+7                                                 5th          +3         +1   
+8                                                 6th          +4         +2   
+9                                                 7th          +5         +2   
+10                                                8th       +6/+1         +2   
+11                                                9th       +6/+1         +3   
+12                                               10th       +7/+2         +3   
+13                                               11th       +8/+3         +3   
+14                                               12th       +9/+4         +4   
+15                                               13th       +9/+4         +4   
+16                                               14th      +10/+5         +4   
+17                                               15th   +11/+6/+1         +5   
+18                                               16th   +12/+7/+2         +5   
+19                                               17th   +12/+7/+2         +5   
+20                                               18th   +13/+8/+3         +6   
+21                                               19th   +14/+9/+4         +6   
+22                                               20th  +15/+10/+5         +6   
+
+     Ref Save  Will Save                                            Special            4th        5th                                                6th   
+0   Fort Save   Ref Save                                          Will Save   
+1    Ref Save  Will Save                                            Special   
+2         4th        5th                                                6th   
+3          +2         +2  Bardic knowledge, bardic performance, cantrips...   
+4          +3         +3                 Versatile performance, well-versed   
+5          +3         +3                              Inspire competence +2   
+6          +4         +4                                                  —   
+7          +4         +4              Inspire courage +2, lore master 1/day   
+8          +5         +5                  Suggestion, versatile performance   
+9          +5         +5                              Inspire competence +3   
+10         +6         +6                                      Dirge of doom   
+11         +6         +6                                  Inspire greatness   
+12         +7         +7          Jack-of-all-trades, versatile performance   
+13         +7         +7  Inspire competence +4, inspire courage +3, lor...   
+14         +8         +8                               Soothing performance   
+15         +8         +8                                                  —   
+16         +9         +9            Frightening tune, versatile performance   
+17         +9         +9             Inspire competence +5, inspire heroics   
+18        +10        +10                                                  —   
+19        +10        +10              Inspire courage +4, lore master 3/day   
+20        +11        +11             Mass suggestion, versatile performance   
+21        +11        +11                              Inspire competence +6   
+22        +12        +12                                 Deadly performance   
+
+       Spells Per Day Unnamed: 7_level_0 Unnamed: 8_level_0     Unnamed: 6_level_1 Unnamed: 7_level_1 Unnamed: 8_level_1   
+0             Special     Spells Per Day                1st   
+1      Spells Per Day                NaN                NaN   
+2                 NaN                NaN                NaN   
+3                   1                  —                  —   
+4                   2                  —                  —   
+5                   3                  —                  —   
+6                   3                  1                  —   
+7                   4                  2                  —   
+8                   4                  3                  —   
+9                   4                  3                  1   
+10                  4                  4                  2   
+11                  5                  4                  3   
+12                  5                  4                  3   
+13                  5                  4                  4   
+14                  5                  5                  4   
+15                  5                  5                  4   
+16                  5                  5                  4   
+17                  5                  5                  5   
+18                  5                  5                  5   
+19                  5                  5                  5   
+20                  5                  5                  5   
+21                  5                  5                  5   
+22                  5                  5                  5   
+
+   Unnamed: 9_level_0         ...          Unnamed: 245_level_0     Unnamed: 9_level_1         ...          Unnamed: 245_level_1   
+0                 2nd         ...                          12.0   
+1                 NaN         ...                           NaN   
+2                 NaN         ...                           NaN   
+3                   —         ...                           NaN   
+4                   —         ...                           NaN   
+5                   —         ...                           NaN   
+6                   —         ...                           NaN   
+7                   —         ...                           NaN   
+8                   —         ...                           NaN   
+9                   —         ...                           NaN   
+10                  —         ...                           NaN   
+11                  —         ...                           NaN   
+12                  1         ...                           NaN   
+13                  2         ...                           NaN   
+14                  3         ...                           NaN   
+15                  3         ...                           NaN   
+16                  4         ...                           NaN   
+17                  4         ...                           NaN   
+18                  4         ...                           NaN   
+19                  4         ...                           NaN   
+20                  5         ...                           NaN   
+21                  5         ...                           NaN   
+22                  5         ...                           NaN   
+
+   Unnamed: 246_level_0 Unnamed: 247_level_0 Unnamed: 248_level_0     Unnamed: 246_level_1 Unnamed: 247_level_1 Unnamed: 248_level_1   
+0                  12.0   Deadly performance                  5.0   
+1                   NaN                  NaN                  NaN   
+2                   NaN                  NaN                  NaN   
+3                   NaN                  NaN                  NaN   
+4                   NaN                  NaN                  NaN   
+5                   NaN                  NaN                  NaN   
+6                   NaN                  NaN                  NaN   
+7                   NaN                  NaN                  NaN   
+8                   NaN                  NaN                  NaN   
+9                   NaN                  NaN                  NaN   
+10                  NaN                  NaN                  NaN   
+11                  NaN                  NaN                  NaN   
+12                  NaN                  NaN                  NaN   
+13                  NaN                  NaN                  NaN   
+14                  NaN                  NaN                  NaN   
+15                  NaN                  NaN                  NaN   
+16                  NaN                  NaN                  NaN   
+17                  NaN                  NaN                  NaN   
+18                  NaN                  NaN                  NaN   
+19                  NaN                  NaN                  NaN   
+20                  NaN                  NaN                  NaN   
+21                  NaN                  NaN                  NaN   
+22                  NaN                  NaN                  NaN   
+
+   Unnamed: 249_level_0 Unnamed: 250_level_0 Unnamed: 251_level_0     Unnamed: 249_level_1 Unnamed: 250_level_1 Unnamed: 251_level_1   
+0                   5.0                  5.0                  5.0   
+1                   NaN                  NaN                  NaN   
+2                   NaN                  NaN                  NaN   
+3                   NaN                  NaN                  NaN   
+4                   NaN                  NaN                  NaN   
+5                   NaN                  NaN                  NaN   
+6                   NaN                  NaN                  NaN   
+7                   NaN                  NaN                  NaN   
+8                   NaN                  NaN                  NaN   
+9                   NaN                  NaN                  NaN   
+10                  NaN                  NaN                  NaN   
+11                  NaN                  NaN                  NaN   
+12                  NaN                  NaN                  NaN   
+13                  NaN                  NaN                  NaN   
+14                  NaN                  NaN                  NaN   
+15                  NaN                  NaN                  NaN   
+16                  NaN                  NaN                  NaN   
+17                  NaN                  NaN                  NaN   
+18                  NaN                  NaN                  NaN   
+19                  NaN                  NaN                  NaN   
+20                  NaN                  NaN                  NaN   
+21                  NaN                  NaN                  NaN   
+22                  NaN                  NaN                  NaN   
+
+   Unnamed: 252_level_0 Unnamed: 253_level_0 Unnamed: 254_level_0  
+   Unnamed: 252_level_1 Unnamed: 253_level_1 Unnamed: 254_level_1  
+0                   5.0                  5.0                  NaN  
+1                   NaN                  NaN                  NaN  
+2                   NaN                  NaN                  NaN  
+3                   NaN                  NaN                  NaN  
+4                   NaN                  NaN                  NaN  
+5                   NaN                  NaN                  NaN  
+6                   NaN                  NaN                  NaN  
+7                   NaN                  NaN                  NaN  
+8                   NaN                  NaN                  NaN  
+9                   NaN                  NaN                  NaN  
+10                  NaN                  NaN                  NaN  
+11                  NaN                  NaN                  NaN  
+12                  NaN                  NaN                  NaN  
+13                  NaN                  NaN                  NaN  
+14                  NaN                  NaN                  NaN  
+15                  NaN                  NaN                  NaN  
+16                  NaN                  NaN                  NaN  
+17                  NaN                  NaN                  NaN  
+18                  NaN                  NaN                  NaN  
+19                  NaN                  NaN                  NaN  
+20                  NaN                  NaN                  NaN  
+21                  NaN                  NaN                  NaN  
+22                  NaN                  NaN                  NaN  
+
+[23 rows x 255 columns]   Level         BAB Fort Save Ref Save Will Save       1st         2nd       3rd      4th       5th   
+0    1st          +0         0        2         2   
+1    2nd          +1         0        3         3   
+2    3rd          +2         1        3         3   
+3    4th          +3         1        4         4   
+4    5th          +3         1        4         4   
+5    6th          +4         2        5         5   
+6    7th          +5         2        5         5   
+7    8th       +6/+1         2        6         6   
+8    9th       +6/+1         3        6         6   
+9   10th       +7/+2         3        7         7   
+10  11th       +8/+3         3        7         7   
+11  12th       +9/+4         4        8         8   
+12  13th       +9/+4         4        8         8   
+13  14th      +10/+5         4        9         9   
+14  15th   +11/+6/+1         5        9         9   
+15  16th   +12/+7/+2         5       10        10   
+16  17th   +12/+7/+2         5       10        10   
+17  18th   +13/+8/+3         6       11        11   
+18  19th   +14/+9/+4         6       11        11   
+19  20th  +15/+10/+5         6       12        12   
+
+                                              Special     Spells Per Day                                                    6th Unnamed: 6_level_1   
+0   Bardic knowledge, bardic performance, cantrips...                  1   
+1                  Versatile performance, well-versed                  2   
+2                               Inspire competence +2                  3   
+3                                                   —                  3   
+4               Inspire courage +2, lore master 1/day                  4   
+5                   Suggestion, versatile performance                  4   
+6                               Inspire competence +3                  4   
+7                                       Dirge of doom                  4   
+8                                   Inspire greatness                  5   
+9           Jack-of-all-trades, versatile performance                  5   
+10  Inspire competence +4, inspire courage +3, lor...                  5   
+11                               Soothing performance                  5   
+12                                                  —                  5   
+13            Frightening tune, versatile performance                  5   
+14             Inspire competence +5, inspire heroics                  5   
+15                                                  —                  5   
+16              Inspire courage +4, lore master 3/day                  5   
+17             Mass suggestion, versatile performance                  5   
+18                              Inspire competence +6                  5   
+19                                 Deadly performance                  5   
+
+   Unnamed: 7_level_0 Unnamed: 8_level_0 Unnamed: 9_level_0     Unnamed: 7_level_1 Unnamed: 8_level_1 Unnamed: 9_level_1   
+0                   —                  —                  —   
+1                   —                  —                  —   
+2                   —                  —                  —   
+3                   1                  —                  —   
+4                   2                  —                  —   
+5                   3                  —                  —   
+6                   3                  1                  —   
+7                   4                  2                  —   
+8                   4                  3                  —   
+9                   4                  3                  1   
+10                  4                  4                  2   
+11                  5                  4                  3   
+12                  5                  4                  3   
+13                  5                  4                  4   
+14                  5                  5                  4   
+15                  5                  5                  4   
+16                  5                  5                  4   
+17                  5                  5                  5   
+18                  5                  5                  5   
+19                  5                  5                  5   
+
+   Unnamed: 10_level_0 Unnamed: 11_level_0  
+   Unnamed: 10_level_1 Unnamed: 11_level_1  
+0                    —                   —  
+1                    —                   —  
+2                    —                   —  
+3                    —                   —  
+4                    —                   —  
+5                    —                   —  
+6                    —                   —  
+7                    —                   —  
+8                    —                   —  
+9                    —                   —  
+10                   —                   —  
+11                   —                   —  
+12                   1                   —  
+13                   2                   —  
+14                   3                   —  
+15                   3                   1  
+16                   4                   2  
+17                   4                   3  
+18                   5                   4  
+19                   5                   5          0    1    2    3    4    5    6    7
+0   Level  0th  1st  2nd  3rd  4th  5th  6th
+1     1st    4    2    —    —    —    —    —
+2     2nd    5    3    —    —    —    —    —
+3     3rd    6    4    —    —    —    —    —
+4     4th    6    4    2    —    —    —    —
+5     5th    6    4    3    —    —    —    —
+6     6th    6    4    4    —    —    —    —
+7     7th    6    5    4    2    —    —    —
+8     8th    6    5    4    3    —    —    —
+9     9th    6    5    4    4    —    —    —
+10   10th    6    5    5    4    2    —    —
+11   11th    6    6    5    4    3    —    —
+12   12th    6    6    5    4    4    —    —
+13   13th    6    6    5    5    4    2    —
+14   14th    6    6    6    5    4    3    —
+15   15th    6    6    6    5    4    4    —
+16   16th    6    6    6    5    5    4    2
+17   17th    6    6    6    6    5    4    3
+18   18th    6    6    6    6    5    4    4
+19   19th    6    6    6    6    5    5    4
+20   20th    6    6    6    6    6    5    5                      Race                                              Bonus                       
+
+
+
+
+-=-=-=-=-=-=-=-shifter=-=-=-=-=-=-=-=
+   Level Base Attack Bonus  Fort Save  Ref Save  Will Save  0    1st                +1          2         2          0   
+1    2nd                +2          3         3          0   
+2    3rd                +3          3         3          1   
+3    4th                +4          4         4          1   
+4    5th                +5          4         4          1   
+5    6th             +6/+1          5         5          2   
+6    7th             +7/+2          5         5          2   
+7    8th             +8/+3          6         6          2   
+8    9th             +9/+4          6         6          3   
+9   10th            +10/+5          7         7          3   
+10  11th         +11/+6/+1          7         7          3   
+11  12th         +12/+7/+2          8         8          4   
+12  13th         +13/+8/+3          8         8          4   
+13  14th         +14/+9/+4          9         9          4   
+14  15th        +15/+10/+5          9         9          5   
+15  16th     +16/+11/+6/+1         10        10          5   
+16  17th     +17/+12/+7/+2         10        10          5   
+17  18th     +18/+13/+8/+3         11        11          6   
+18  19th     +19/+14/+9/+4         11        11          6   
+19  20th    +20/+15/+10/+5         12        12          6   
+
+                                        Special  
+0   Shifter aspect, shifter claws, wild empathy  
+1                     Defensive instinct, track  
+2       Shifter claws increase, woodland stride  
+3   Defensive instinct (+1), wild shape (1/day)  
+4                 Second aspect, trackless step  
+5                            Wild shape (2/day)  
+6                        Shifter claws increase  
+7   Defensive instinct (+2), wild shape (3/day)  
+8                               Chimeric aspect  
+9              Third aspect, wild shape (4/day)  
+10                       Shifter claws increase  
+11  Defensive instinct (+3), wild shape (5/day)  
+12                       Shifter claws increase  
+13  Greater chimeric aspect, wild shape (6/day)  
+14                                Fourth aspect  
+15  Defensive instinct (+4), wild shape (7/day)  
+16                       Shifter claws increase  
+17                           Wild shape (8/day)  
+18                       Shifter claws increase  
+19        Defensive instinct (+5), final aspect                             0                    1  0  Open Gaming Network BLOG!  Support Open Gaming   
+
+                             2                             3  0  Subscribe to Our Newsletter  Sell in theOpen Gaming Store   
+
+                       4  
+0  Report a Bug or Issue   
+
+
+
+
+-=-=-=-=-=-=-=-cleric=-=-=-=-=-=-=-=
+   Level Base Attack Bonus Fort Save Ref Save Will Save       0th               1st       2nd      3rd       4th   
+0    1st                +0         2        0         2   
+1    2nd                +1         3        0         3   
+2    3rd                +2         3        1         3   
+3    4th                +3         4        1         4   
+4    5th                +3         4        1         4   
+5    6th                +4         5        2         5   
+6    7th                +5         5        2         5   
+7    8th             +6/+1         6        2         6   
+8    9th             +6/+1         6        3         6   
+9   10th             +7/+2         7        3         7   
+10  11th             +8/+3         7        3         7   
+11  12th             +9/+4         8        4         8   
+12  13th             +9/+4         8        4         8   
+13  14th            +10/+5         9        4         9   
+14  15th         +11/+6/+1         9        5         9   
+15  16th         +12/+7/+2        10        5        10   
+16  17th         +12/+7/+2        10        5        10   
+17  18th         +13/+8/+3        11        6        11   
+18  19th         +14/+9/+4        11        6        11   
+19  20th        +15/+10/+5        12        6        12   
+
+                                              Special Spells Per Day                                                    5th            6th   
+0   Aura, channel energy 1d6, domains, orisons, sp...              3   
+1                                                 NaN              4   
+2                                  Channel energy 2d6              4   
+3                                                 NaN              4   
+4                                  Channel energy 3d6              4   
+5                                                 NaN              4   
+6                                  Channel energy 4d6              4   
+7                                                 NaN              4   
+8                                  Channel energy 5d6              4   
+9                                                 NaN              4   
+10                                 Channel energy 6d6              4   
+11                                                NaN              4   
+12                                 Channel energy 7d6              4   
+13                                                NaN              4   
+14                                 Channel energy 8d6              4   
+15                                                NaN              4   
+16                                 Channel energy 9d6              4   
+17                                                NaN              4   
+18                                Channel energy 10d6              4   
+19                                                NaN              4   
+
+   Unnamed: 7_level_0 Unnamed: 8_level_0 Unnamed: 9_level_0                    7th                8th                9th   
+0                 1+1                  —                  —   
+1                 2+1                  —                  —   
+2                 2+1                1+1                  —   
+3                 3+1                2+1                  —   
+4                 3+1                2+1                1+1   
+5                 3+1                3+1                2+1   
+6                 4+1                3+1                2+1   
+7                 4+1                3+1                3+1   
+8                 4+1                4+1                3+1   
+9                 4+1                4+1                3+1   
+10                4+1                4+1                4+1   
+11                4+1                4+1                4+1   
+12                4+1                4+1                4+1   
+13                4+1                4+1                4+1   
+14                4+1                4+1                4+1   
+15                4+1                4+1                4+1   
+16                4+1                4+1                4+1   
+17                4+1                4+1                4+1   
+18                4+1                4+1                4+1   
+19                4+1                4+1                4+1   
+
+   Unnamed: 10_level_0 Unnamed: 11_level_0 Unnamed: 12_level_0     Unnamed: 10_level_1 Unnamed: 11_level_1 Unnamed: 12_level_1   
+0                    —                   —                   —   
+1                    —                   —                   —   
+2                    —                   —                   —   
+3                    —                   —                   —   
+4                    —                   —                   —   
+5                    —                   —                   —   
+6                  1+1                   —                   —   
+7                  2+1                   —                   —   
+8                  2+1                 1+1                   —   
+9                  3+1                 2+1                   —   
+10                 3+1                 2+1                 1+1   
+11                 3+1                 3+1                 2+1   
+12                 4+1                 3+1                 2+1   
+13                 4+1                 3+1                 3+1   
+14                 4+1                 4+1                 3+1   
+15                 4+1                 4+1                 3+1   
+16                 4+1                 4+1                 4+1   
+17                 4+1                 4+1                 4+1   
+18                 4+1                 4+1                 4+1   
+19                 4+1                 4+1                 4+1   
+
+   Unnamed: 13_level_0 Unnamed: 14_level_0 Unnamed: 15_level_0  
+   Unnamed: 13_level_1 Unnamed: 14_level_1 Unnamed: 15_level_1  
+0                    —                   —                   —  
+1                    —                   —                   —  
+2                    —                   —                   —  
+3                    —                   —                   —  
+4                    —                   —                   —  
+5                    —                   —                   —  
+6                    —                   —                   —  
+7                    —                   —                   —  
+8                    —                   —                   —  
+9                    —                   —                   —  
+10                   —                   —                   —  
+11                   —                   —                   —  
+12                 1+1                   —                   —  
+13                 2+1                   —                   —  
+14                 2+1                 1+1                   —  
+15                 3+1                 2+1                   —  
+16                 3+1                 2+1                 1+1  
+17                 3+1                 3+1                 2+1  
+18                 4+1                 3+1                 3+1  
+19                 4+1                 4+1                 4+1          Race                                              Bonus         
+
+
+
+
+-=-=-=-=-=-=-=-fighter=-=-=-=-=-=-=-=
+   Level Base Attack Bonus  Fort Save  Ref Save  Will Save  0    1st                +1          2         0          0   
+1    2nd                +2          3         0          0   
+2    3rd                +3          3         1          1   
+3    4th                +4          4         1          1   
+4    5th                +5          4         1          1   
+5    6th             +6/+1          5         2          2   
+6    7th             +7/+2          5         2          2   
+7    8th             +8/+3          6         2          2   
+8    9th             +9/+4          6         3          3   
+9   10th            +10/+5          7         3          3   
+10  11th         +11/+6/+1          7         3          3   
+11  12th         +12/+7/+2          8         4          4   
+12  13th         +13/+8/+3          8         4          4   
+13  14th         +14/+9/+4          9         4          4   
+14  15th        +15/+10/+5          9         5          5   
+15  16th     +16/+11/+6/+1         10         5          5   
+16  17th     +17/+12/+7/+2         10         5          5   
+17  18th     +18/+13/+8/+3         11         6          6   
+18  19th     +19/+14/+9/+4         11         6          6   
+19  20th    +20/+15/+10/+5         12         6          6   
+
+                                           Special  
+0                                       Bonus feat  
+1                           Bonus feat, bravery +1  
+2                                   Armor training  
+3                                       Bonus feat  
+4                                  Weapon training  
+5                           Bonus feat, bravery +2  
+6                                   Armor training  
+7                                       Bonus feat  
+8   Weapon training (or advanced weapon training*)  
+9                           Bonus feat, bravery +3  
+10                                  Armor training  
+11                                      Bonus feat  
+12                                 Weapon training  
+13                          Bonus feat, bravery +4  
+14                                  Armor training  
+15                                      Bonus feat  
+16                                 Weapon training  
+17                          Bonus feat, bravery +5  
+18                                   Armor mastery  
+19                      Bonus feat, Weapon mastery       Armor Type        Don Don Hastily       Remove
+0   Light armor   5 rounds     1 round     5 rounds
+1  Medium armor   1 minute    5 rounds     1 minute
+2   Heavy armor  2 minutes    1 minute  1d4 minutes       Race                                              Bonus        
+
+
+
+
+-=-=-=-=-=-=-=-vigilante=-=-=-=-=-=-=-=
+                                                Level  Base Attack Bonus  0   Table: Vigilante Level Base Attack Bonus Fort ...              Level   
+1                                               Level  Base Attack Bonus   
+2                                                 1st                 +0   
+3                                                 2nd                 +1   
+4                                                 3rd                 +2   
+5                                                 4th                 +3   
+6                                                 5th                 +3   
+7                                                 6th                 +4   
+8                                                 7th                 +5   
+9                                                 8th              +6/+1   
+10                                                9th              +6/+1   
+11                                               10th              +7/+2   
+12                                               11th              +8/+3   
+13                                               12th              +9/+4   
+14                                               13th              +9/+4   
+15                                               14th             +10/+5   
+16                                               15th          +11/+6/+1   
+17                                               16th          +12/+7/+2   
+18                                               17th          +12/+7/+2   
+19                                               18th          +13/+8/+3   
+20                                               19th          +14/+9/+4   
+21                                               20th         +15/+10/+5   
+
+            Fort Save   Ref Save  Will Save  0   Base Attack Bonus  Fort Save   Ref Save   
+1           Fort Save   Ref Save  Will Save   
+2                  +0         +2         +2   
+3                  +0         +3         +3   
+4                  +1         +3         +3   
+5                  +1         +4         +4   
+6                  +1         +4         +4   
+7                  +2         +5         +5   
+8                  +2         +5         +5   
+9                  +2         +6         +6   
+10                 +3         +6         +6   
+11                 +3         +7         +7   
+12                 +3         +7         +7   
+13                 +4         +8         +8   
+14                 +4         +8         +8   
+15                 +4         +9         +9   
+16                 +5         +9         +9   
+17                 +5        +10        +10   
+18                 +5        +10        +10   
+19                 +6        +11        +11   
+20                 +6        +11        +11   
+21                 +6        +12        +12   
+
+                                              Special Unnamed: 6 Unnamed: 7  0                                           Will Save    Special        1st   
+1                                             Special        NaN        NaN   
+2   Dual identity, seamless guise, social talent, ...        NaN        NaN   
+3                                    Vigilante talent        NaN        NaN   
+4                           Social talent, unshakable        NaN        NaN   
+5                                    Vigilante talent        NaN        NaN   
+6                 Social talent, startling appearance        NaN        NaN   
+7                                    Vigilante talent        NaN        NaN   
+8                                       Social talent        NaN        NaN   
+9                                    Vigilante talent        NaN        NaN   
+10                                      Social talent        NaN        NaN   
+11                                   Vigilante talent        NaN        NaN   
+12              Frightening appearance, social talent        NaN        NaN   
+13                                   Vigilante talent        NaN        NaN   
+14                                      Social talent        NaN        NaN   
+15                                   Vigilante talent        NaN        NaN   
+16                                      Social talent        NaN        NaN   
+17                                   Vigilante talent        NaN        NaN   
+18                 Social talent, stunning appearance        NaN        NaN   
+19                                   Vigilante talent        NaN        NaN   
+20                                      Social talent        NaN        NaN   
+21                 Vengeance strike, vigilante talent        NaN        NaN   
+
+    Unnamed: 8  Unnamed: 9     ...       Unnamed: 118  Unnamed: 119  0          0.0         0.0     ...               11.0          11.0   
+1          NaN         NaN     ...                NaN           NaN   
+2          NaN         NaN     ...                NaN           NaN   
+3          NaN         NaN     ...                NaN           NaN   
+4          NaN         NaN     ...                NaN           NaN   
+5          NaN         NaN     ...                NaN           NaN   
+6          NaN         NaN     ...                NaN           NaN   
+7          NaN         NaN     ...                NaN           NaN   
+8          NaN         NaN     ...                NaN           NaN   
+9          NaN         NaN     ...                NaN           NaN   
+10         NaN         NaN     ...                NaN           NaN   
+11         NaN         NaN     ...                NaN           NaN   
+12         NaN         NaN     ...                NaN           NaN   
+13         NaN         NaN     ...                NaN           NaN   
+14         NaN         NaN     ...                NaN           NaN   
+15         NaN         NaN     ...                NaN           NaN   
+16         NaN         NaN     ...                NaN           NaN   
+17         NaN         NaN     ...                NaN           NaN   
+18         NaN         NaN     ...                NaN           NaN   
+19         NaN         NaN     ...                NaN           NaN   
+20         NaN         NaN     ...                NaN           NaN   
+21         NaN         NaN     ...                NaN           NaN   
+
+     Unnamed: 120 Unnamed: 121  Unnamed: 122  Unnamed: 123  Unnamed: 124  0   Social talent         20th    +15/+10/+5           6.0          12.0   
+1             NaN          NaN           NaN           NaN           NaN   
+2             NaN          NaN           NaN           NaN           NaN   
+3             NaN          NaN           NaN           NaN           NaN   
+4             NaN          NaN           NaN           NaN           NaN   
+5             NaN          NaN           NaN           NaN           NaN   
+6             NaN          NaN           NaN           NaN           NaN   
+7             NaN          NaN           NaN           NaN           NaN   
+8             NaN          NaN           NaN           NaN           NaN   
+9             NaN          NaN           NaN           NaN           NaN   
+10            NaN          NaN           NaN           NaN           NaN   
+11            NaN          NaN           NaN           NaN           NaN   
+12            NaN          NaN           NaN           NaN           NaN   
+13            NaN          NaN           NaN           NaN           NaN   
+14            NaN          NaN           NaN           NaN           NaN   
+15            NaN          NaN           NaN           NaN           NaN   
+16            NaN          NaN           NaN           NaN           NaN   
+17            NaN          NaN           NaN           NaN           NaN   
+18            NaN          NaN           NaN           NaN           NaN   
+19            NaN          NaN           NaN           NaN           NaN   
+20            NaN          NaN           NaN           NaN           NaN   
+21            NaN          NaN           NaN           NaN           NaN   
+
+    Unnamed: 125                        Unnamed: 126 Unnamed: 127  
+0           12.0  Vengeance strike, vigilante talent          NaN  
+1            NaN                                 NaN          NaN  
+2            NaN                                 NaN          NaN  
+3            NaN                                 NaN          NaN  
+4            NaN                                 NaN          NaN  
+5            NaN                                 NaN          NaN  
+6            NaN                                 NaN          NaN  
+7            NaN                                 NaN          NaN  
+8            NaN                                 NaN          NaN  
+9            NaN                                 NaN          NaN  
+10           NaN                                 NaN          NaN  
+11           NaN                                 NaN          NaN  
+12           NaN                                 NaN          NaN  
+13           NaN                                 NaN          NaN  
+14           NaN                                 NaN          NaN  
+15           NaN                                 NaN          NaN  
+16           NaN                                 NaN          NaN  
+17           NaN                                 NaN          NaN  
+18           NaN                                 NaN          NaN  
+19           NaN                                 NaN          NaN  
+20           NaN                                 NaN          NaN  
+21           NaN                                 NaN          NaN  
+
+[22 rows x 128 columns]   Level Base Attack Bonus  Fort Save  Ref Save  Will Save  0    1st                +0          0         2          2   
+1    2nd                +1          0         3          3   
+2    3rd                +2          1         3          3   
+3    4th                +3          1         4          4   
+4    5th                +3          1         4          4   
+5    6th                +4          2         5          5   
+6    7th                +5          2         5          5   
+7    8th             +6/+1          2         6          6   
+8    9th             +6/+1          3         6          6   
+9   10th             +7/+2          3         7          7   
+10  11th             +8/+3          3         7          7   
+11  12th             +9/+4          4         8          8   
+12  13th             +9/+4          4         8          8   
+13  14th            +10/+5          4         9          9   
+14  15th         +11/+6/+1          5         9          9   
+15  16th         +12/+7/+2          5        10         10   
+16  17th         +12/+7/+2          5        10         10   
+17  18th         +13/+8/+3          6        11         11   
+18  19th         +14/+9/+4          6        11         11   
+19  20th        +15/+10/+5          6        12         12   
+
+                                              Special  
+0   Dual identity, seamless guise, social talent, ...  
+1                                    Vigilante talent  
+2                           Social talent, unshakable  
+3                                    Vigilante talent  
+4                 Social talent, startling appearance  
+5                                    Vigilante talent  
+6                                       Social talent  
+7                                    Vigilante talent  
+8                                       Social talent  
+9                                    Vigilante talent  
+10              Frightening appearance, social talent  
+11                                   Vigilante talent  
+12                                      Social talent  
+13                                   Vigilante talent  
+14                                      Social talent  
+15                                   Vigilante talent  
+16                 Social talent, stunning appearance  
+17                                   Vigilante talent  
+18                                      Social talent  
+19                 Vengeance strike, vigilante talent      0   1   2   3
+0 NaN NaN NaN NaN        Race                                              Bonus         
+
+
+
+
+-=-=-=-=-=-=-=-witch=-=-=-=-=-=-=-=
+   Level Base Attack Bonus Fort Save Ref Save Will Save         0               1st       2nd      3rd       4th   
+0    1st                +0         0        0         2   
+1    2nd                +1         0        0         3   
+2    3rd                +1         1        1         3   
+3    4th                +2         1        1         4   
+4    5th                +2         1        1         4   
+5    6th                +3         2        2         5   
+6    7th                +3         2        2         5   
+7    8th                +4         2        2         6   
+8    9th                +4         3        3         6   
+9   10th                +5         3        3         7   
+10  11th                +5         3        3         7   
+11  12th             +6/+1         4        4         8   
+12  13th             +6/+1         4        4         8   
+13  14th             +7/+2         4        4         9   
+14  15th             +7/+2         5        5         9   
+15  16th             +8/+3         5        5        10   
+16  17th             +8/+3         5        5        10   
+17  18th             +9/+4         6        6        11   
+18  19th             +9/+4         6        6        11   
+19  20th            +10/+5         6        6        12   
+
+                                           Special Spells per Day                                                 5th            6th   
+0   Cantrips, hex, patron spells, witch’s familiar              3   
+1                                              Hex              4   
+2                                              NaN              4   
+3                                              Hex              4   
+4                                              NaN              4   
+5                                              Hex              4   
+6                                              NaN              4   
+7                                              Hex              4   
+8                                              NaN              4   
+9                                   Hex, major hex              4   
+10                                             NaN              4   
+11                                             Hex              4   
+12                                             NaN              4   
+13                                             Hex              4   
+14                                             NaN              4   
+15                                             Hex              4   
+16                                             NaN              4   
+17                                  Hex, grand hex              4   
+18                                             NaN              4   
+19                                             Hex              4   
+
+   Unnamed: 7_level_0 Unnamed: 8_level_0 Unnamed: 9_level_0                    7th                8th                9th   
+0                   1                  —                  —   
+1                   2                  —                  —   
+2                   2                  1                  —   
+3                   3                  2                  —   
+4                   3                  2                  1   
+5                   3                  3                  2   
+6                   4                  3                  2   
+7                   4                  3                  3   
+8                   4                  4                  3   
+9                   4                  4                  3   
+10                  4                  4                  4   
+11                  4                  4                  4   
+12                  4                  4                  4   
+13                  4                  4                  4   
+14                  4                  4                  4   
+15                  4                  4                  4   
+16                  4                  4                  4   
+17                  4                  4                  4   
+18                  4                  4                  4   
+19                  4                  4                  4   
+
+   Unnamed: 10_level_0 Unnamed: 11_level_0 Unnamed: 12_level_0     Unnamed: 10_level_1 Unnamed: 11_level_1 Unnamed: 12_level_1   
+0                    —                   —                   —   
+1                    —                   —                   —   
+2                    —                   —                   —   
+3                    —                   —                   —   
+4                    —                   —                   —   
+5                    —                   —                   —   
+6                    1                   —                   —   
+7                    2                   —                   —   
+8                    2                   1                   —   
+9                    3                   2                   —   
+10                   3                   2                   1   
+11                   3                   3                   2   
+12                   4                   3                   2   
+13                   4                   3                   3   
+14                   4                   4                   3   
+15                   4                   4                   3   
+16                   4                   4                   4   
+17                   4                   4                   4   
+18                   4                   4                   4   
+19                   4                   4                   4   
+
+   Unnamed: 13_level_0 Unnamed: 14_level_0 Unnamed: 15_level_0  
+   Unnamed: 13_level_1 Unnamed: 14_level_1 Unnamed: 15_level_1  
+0                    —                   —                   —  
+1                    —                   —                   —  
+2                    —                   —                   —  
+3                    —                   —                   —  
+4                    —                   —                   —  
+5                    —                   —                   —  
+6                    —                   —                   —  
+7                    —                   —                   —  
+8                    —                   —                   —  
+9                    —                   —                   —  
+10                   —                   —                   —  
+11                   —                   —                   —  
+12                   1                   —                   —  
+13                   2                   —                   —  
+14                   2                   1                   —  
+15                   3                   2                   —  
+16                   3                   2                   1  
+17                   3                   3                   2  
+18                   4                   3                   3  
+19                   4                   4                   4                                                     0  0  PaizoAura of Purity (Su)Beast of Ill-Omen (Su)...   
+
+                                                   1  
+0  Other PublishersJewel Bound FamiliarSkullbound...                        Race                                              Bonus                       Paizo                                 Unnamed: 1_level_1   
+0               Core Races                                                NaN   
+1                    Dwarf  Add +¼ natural armor bonus to the AC of the wi...   
+2                      Elf  Add one spell from the witch spell list to the...   
+3                    Gnome              The witch gains ? of a new witch hex.   
+4                 Half-Elf  Add one spell from the witch spell list to the...   
+5                 Half-Orc  Add 1 skill rank to the witch’s familiar. If t...   
+6                 Halfling  Add +¼ to the witch’s caster level when determ...   
+7                    Human  Add one spell from the witch spell list to the...   
+8              Other Races                                                NaN   
+9               Changeling  Add one spell from the witch spell list to the...   
+10                  Goblin  Add one spell from the witch spell list to the...   
+11                  Kobold  Add +5 feet to the distance at which her famil...   
+12                     Orc  Add one spell from the witch spell list to the...   
+13                 Ratfolk  Add +5 feet to the range of one hex with a ran...   
+14                   Sylph  Add a +½ bonus on Stealth checks and Perceptio...   
+15                   Tengu  Add one spell from the witch spell list to the...   
+16                Tiefling  The witch’s familiar gains resistance 1 agains...   
+17    3rd Party Publishers                                                NaN   
+18  Jon Brazer Enterprises                                                NaN   
+19                 Dhampir  Add +¼ to the witch’s caster level when castin...   
+20                    Drow  Add +¼ hours to the duration of the witch’s di...   
+21                 Duergar  Add a +½ bonus on checks made to craft magic i...   
+22               Fetchling  The witch’s familiar gains resistance 1 agains...   
+23               Hobgoblin  When casting witch spell with the fear descrip...   
+24                  Wayang  Add +5 feet to the witch’s familiar’s darkvisi...   
+25      Rogue Genius Games                                                NaN   
+26                Asterion  +? to effective witch level when determining t...   
+27                   Piper                        Add +1 hp to your familiar.   
+
+               Source  
+   Unnamed: 2_level_1  
+0                 NaN  
+1                 ARG  
+2                 ARG  
+3                 ARG  
+4                 APG  
+5                 APG  
+6                 ARG  
+7                 APG  
+8                 NaN  
+9                 ARG  
+10                ARG  
+11                ARG  
+12                ARG  
+13                ARG  
+14                ARG  
+15                ARG  
+16                ARG  
+17                NaN  
+18                NaN  
+19          JBE:BoHRC  
+20          JBE:BoHRC  
+21          JBE:BoHRC  
+22          JBE:BoHRC  
+23          JBE:BoHRC  
+24          JBE:BoHRC  
+25                NaN  
+26            RGG:HHO  
+27            RGG:HHO                    Archetype / Alternate Class Feature                                           Class Skills   
+                                                    1   
+                                                Paizo   
+0                                         Alley Witch   
+1                                        Beast-bonded   
+2                                               Bouda   
+3                                         Cartomancer   
+4                                         Dark Sister   
+5                               Dimensional Occultist   
+6                                         Gravewalker   
+7                                         Hedge Witch   
+8                                          Herb Witch   
+9                                       Hex Channeler   
+10                                  Ley Line Guardian   
+11                                             Medium   
+12                                     Mountain Witch   
+13                                          Sea Witch   
+14                                          Synergist   
+15                                    Veneficus Witch   
+16                                 White-Haired Witch   
+17                                       Winter Witch   
+18  Racial Archetypes – The following class archet...   
+19                            Bonded Witch (Half-elf)   
+20                           Dreamweaver (Changeling)   
+21                         Scarred Witch Doctor (Orc)   
+22                               3rd Party Publishers   
+23                                 Flaming Crab Games   
+24                                   Feytouched Hexer   
+25                                     Radiance House   
+26                                      Spirit Drudge   
+27                                    Rite Publishing   
+28                                      Circle Warden   
+29                                 Rogue Genius Games   
+30                                         Blacksnake   
+31                                       Cloakfighter   
+32                                            Harrier   
+33                                  Physical Exemplar   
+34                                        Spellhammer   
+35                                    Weapon Champion   
+36                                             Youxia   
+37  X=replaced, (X)=optional replacement, C=change...   
+
+   Class Features Changed or Replaced Unnamed: 2_level_0 Unnamed: 3_level_0                         Weapon & Armor             Spells           Cantrips   
+                                    2                  4                  6   
+                   Unnamed: 1_level_3 Unnamed: 2_level_3 Unnamed: 3_level_3   
+0                                   C                NaN                NaN   
+1                                 NaN                NaN                NaN   
+2                                 NaN                NaN                NaN   
+3                                 NaN                NaN                NaN   
+4                                 NaN                NaN                NaN   
+5                                 NaN                NaN                NaN   
+6                                 NaN                NaN                NaN   
+7                                 NaN                NaN                NaN   
+8                                 NaN                NaN                NaN   
+9                                 NaN                NaN                NaN   
+10                                NaN                NaN                  C   
+11                                NaN                NaN                NaN   
+12                                NaN                NaN                NaN   
+13                                NaN                NaN                NaN   
+14                                NaN                NaN                NaN   
+15                                NaN                NaN                NaN   
+16                                NaN                NaN                NaN   
+17                                NaN                NaN                NaN   
+18                                NaN                NaN                NaN   
+19                                NaN                NaN                NaN   
+20                                  C                NaN                NaN   
+21                                NaN                NaN                NaN   
+22                                NaN                NaN                NaN   
+23                                NaN                NaN                NaN   
+24                                NaN                NaN                  X   
+25                                NaN                NaN                NaN   
+26                                NaN                NaN                NaN   
+27                                NaN                NaN                NaN   
+28                                NaN                NaN                NaN   
+29                                NaN                NaN                NaN   
+30                                NaN                NaN                NaN   
+31                                NaN                NaN                NaN   
+32                                NaN                NaN                NaN   
+33                                NaN                NaN                NaN   
+34                                NaN                NaN                NaN   
+35                                NaN                NaN                NaN   
+36                                NaN                NaN                NaN   
+37                                NaN                NaN                NaN   
+
+   Unnamed: 4_level_0 Unnamed: 5_level_0 Unnamed: 6_level_0                    Hex   Witch’s Familiar      Patron Spells   
+                    8                 10                 12   
+   Unnamed: 4_level_3 Unnamed: 5_level_3 Unnamed: 6_level_3   
+0                 NaN                  X                NaN   
+1                 NaN                NaN                NaN   
+2                 NaN                  C                NaN   
+3                 NaN                NaN                  X   
+4                 NaN                NaN                  X   
+5                 NaN                NaN                  X   
+6                 NaN                  X                NaN   
+7                 NaN                NaN                NaN   
+8                 NaN                  X                  C   
+9                 NaN                NaN                  X   
+10                NaN                  X                NaN   
+11                NaN                NaN                  X   
+12                NaN                  C                  X   
+13                NaN                  X                NaN   
+14                NaN                  X                NaN   
+15                NaN                NaN                  X   
+16                NaN                  X                  X   
+17                  C                NaN                NaN   
+18                NaN                NaN                NaN   
+19                NaN                NaN                NaN   
+20                NaN                NaN                  X   
+21                NaN                  X                NaN   
+22                NaN                NaN                NaN   
+23                NaN                NaN                NaN   
+24                NaN                NaN                NaN   
+25                NaN                NaN                NaN   
+26                NaN                  X                  X   
+27                NaN                NaN                NaN   
+28                NaN                  X                  C   
+29                NaN                NaN                NaN   
+30                NaN                  X                  X   
+31                NaN                  X                  X   
+32                NaN                  X                  X   
+33                NaN                  X                  X   
+34                NaN                  X                  X   
+35                NaN                  X                  X   
+36                NaN                  X                  X   
+37                NaN                NaN                NaN   
+
+   Unnamed: 7_level_0 Unnamed: 8_level_0 Unnamed: 9_level_0              Major Hex          Grand Hex Unnamed: 9_level_1   
+                   14                 16                 18   
+   Unnamed: 7_level_3 Unnamed: 8_level_3 Unnamed: 9_level_3   
+0                 NaN                  X                NaN   
+1                   X                NaN                  X   
+2                 NaN                NaN                NaN   
+3                 NaN                NaN                NaN   
+4                 NaN                NaN                  X   
+5                 NaN                NaN                  X   
+6                   X                NaN                  X   
+7                   X                NaN                  X   
+8                 NaN                NaN                NaN   
+9                 NaN                NaN                NaN   
+10                NaN                NaN                  X   
+11                NaN                  X                NaN   
+12                  C                  C                  C   
+13                NaN                NaN                NaN   
+14                NaN                NaN                  X   
+15                NaN                NaN                NaN   
+16                  X                  X                  X   
+17                  X                NaN                NaN   
+18                NaN                NaN                NaN   
+19                NaN                NaN                NaN   
+20                NaN                  X                NaN   
+21                NaN                NaN                NaN   
+22                NaN                NaN                NaN   
+23                NaN                NaN                NaN   
+24                NaN                NaN                NaN   
+25                NaN                NaN                NaN   
+26                  X                  X                  X   
+27                NaN                NaN                NaN   
+28                  X                  C                  X   
+29                NaN                NaN                NaN   
+30                  X                  X                  X   
+31                  X                  X                  X   
+32                  X                  X                  X   
+33                  X                  X                  X   
+34                  X                  X                  X   
+35                  X                  X                  X   
+36                  X                  X                  X   
+37                NaN                NaN                NaN   
+
+           ...         Unnamed: 18_level_0 Unnamed: 19_level_0             ...         Unnamed: 18_level_1 Unnamed: 19_level_1   
+           ...                          16                  18   
+           ...         Unnamed: 18_level_3 Unnamed: 19_level_3   
+0          ...                         NaN                 NaN   
+1          ...                         NaN                 NaN   
+2          ...                         NaN                 NaN   
+3          ...                         NaN                 NaN   
+4          ...                         NaN                 NaN   
+5          ...                           C                   C   
+6          ...                           X                   X   
+7          ...                         NaN                 NaN   
+8          ...                         NaN                 NaN   
+9          ...                         NaN                 NaN   
+10         ...                         NaN                 NaN   
+11         ...                         NaN                 NaN   
+12         ...                           C                   C   
+13         ...                           X                   X   
+14         ...                         NaN                 NaN   
+15         ...                         NaN                 NaN   
+16         ...                         NaN                 NaN   
+17         ...                           C                   C   
+18         ...                         NaN                 NaN   
+19         ...                         NaN                 NaN   
+20         ...                           X                   X   
+21         ...                         NaN                 NaN   
+22         ...                         NaN                 NaN   
+23         ...                         NaN                 NaN   
+24         ...                           C                   C   
+25         ...                         NaN                 NaN   
+26         ...                           X                   X   
+27         ...                         NaN                 NaN   
+28         ...                           C                 NaN   
+29         ...                         NaN                 NaN   
+30         ...                         NaN                 NaN   
+31         ...                         NaN                 NaN   
+32         ...                         NaN                 NaN   
+33         ...                         NaN                 NaN   
+34         ...                         NaN                 NaN   
+35         ...                         NaN                 NaN   
+36         ...                         NaN                 NaN   
+37         ...                         NaN                 NaN   
+
+   Unnamed: 20_level_0 Unnamed: 21_level_0 Unnamed: 22_level_0     Unnamed: 20_level_1 Unnamed: 21_level_1 Unnamed: 22_level_1   
+   Unnamed: 20_level_2 Unnamed: 21_level_2 Unnamed: 22_level_2   
+   Unnamed: 20_level_3 Unnamed: 21_level_3 Unnamed: 22_level_3   
+0                  NaN                 NaN                 NaN   
+1                  NaN                 NaN                 NaN   
+2                  NaN                 NaN                 NaN   
+3                  NaN                 NaN                 NaN   
+4                  NaN                 NaN                 NaN   
+5                    C                   C                   C   
+6                  NaN                 NaN                   X   
+7                  NaN                 NaN                 NaN   
+8                  NaN                 NaN                 NaN   
+9                  NaN                 NaN                 NaN   
+10                 NaN                 NaN                 NaN   
+11                 NaN                 NaN                 NaN   
+12                   C                   C                   C   
+13                   X                   X                   X   
+14                 NaN                 NaN                 NaN   
+15                 NaN                 NaN                 NaN   
+16                 NaN                 NaN                 NaN   
+17                   C                   C                   C   
+18                 NaN                 NaN                 NaN   
+19                 NaN                 NaN                 NaN   
+20                   X                   X                   X   
+21                 NaN                 NaN                 NaN   
+22                 NaN                 NaN                 NaN   
+23                 NaN                 NaN                 NaN   
+24                   C                   C                   C   
+25                 NaN                 NaN                 NaN   
+26                   X                   X                   X   
+27                 NaN                 NaN                 NaN   
+28                   C                   C                 NaN   
+29                 NaN                 NaN                 NaN   
+30                 NaN                 NaN                 NaN   
+31                 NaN                 NaN                 NaN   
+32                 NaN                 NaN                 NaN   
+33                 NaN                 NaN                 NaN   
+34                 NaN                 NaN                 NaN   
+35                 NaN                 NaN                 NaN   
+36                 NaN                 NaN                 NaN   
+37                 NaN                 NaN                 NaN   
+
+   Unnamed: 23_level_0 Unnamed: 24_level_0 Unnamed: 25_level_0     Unnamed: 23_level_1 Unnamed: 24_level_1 Unnamed: 25_level_1   
+   Unnamed: 23_level_2 Unnamed: 24_level_2 Unnamed: 25_level_2   
+   Unnamed: 23_level_3 Unnamed: 24_level_3 Unnamed: 25_level_3   
+0                  NaN                 NaN                 NaN   
+1                  NaN                 NaN                 NaN   
+2                  NaN                 NaN                 NaN   
+3                  NaN                 NaN                 NaN   
+4                  NaN                 NaN                 NaN   
+5                    C                   C                   C   
+6                    X                   X                 NaN   
+7                  NaN                 NaN                 NaN   
+8                  NaN                 NaN                 NaN   
+9                  NaN                 NaN                 NaN   
+10                 NaN                 NaN                 NaN   
+11                 NaN                 NaN                 NaN   
+12                   C                   C                   C   
+13                   X                   X                   X   
+14                 NaN                 NaN                 NaN   
+15                 NaN                 NaN                 NaN   
+16                 NaN                 NaN                 NaN   
+17                   C                   C                   C   
+18                 NaN                 NaN                 NaN   
+19                 NaN                 NaN                 NaN   
+20                   X                   X                   X   
+21                 NaN                 NaN                 NaN   
+22                 NaN                 NaN                 NaN   
+23                 NaN                 NaN                 NaN   
+24                   C                   C                   C   
+25                 NaN                 NaN                 NaN   
+26                   X                   X                   X   
+27                 NaN                 NaN                 NaN   
+28                   C                 NaN                 NaN   
+29                 NaN                 NaN                 NaN   
+30                 NaN                 NaN                 NaN   
+31                 NaN                 NaN                 NaN   
+32                 NaN                 NaN                 NaN   
+33                 NaN                 NaN                 NaN   
+34                 NaN                 NaN                 NaN   
+35                 NaN                 NaN                 NaN   
+36                 NaN                 NaN                 NaN   
+37                 NaN                 NaN                 NaN   
+
+   Unnamed: 26_level_0 Unnamed: 27_level_0  
+   Unnamed: 26_level_1 Unnamed: 27_level_1  
+   Unnamed: 26_level_2 Unnamed: 27_level_2  
+   Unnamed: 26_level_3 Unnamed: 27_level_3  
+0                  NaN                 NaN  
+1                  NaN                 NaN  
+2                  NaN                 NaN  
+3                  NaN                 NaN  
+4                  NaN                 NaN  
+5                  NaN                 NaN  
+6                  NaN                 NaN  
+7                  NaN                 NaN  
+8                  NaN                 NaN  
+9                  NaN                 NaN  
+10                 NaN                 NaN  
+11                 NaN                 NaN  
+12                 NaN                 NaN  
+13                 NaN                 NaN  
+14                 NaN                 NaN  
+15                 NaN                 NaN  
+16                   X                   X  
+17                 NaN                 NaN  
+18                 NaN                 NaN  
+19                 NaN                 NaN  
+20                 NaN                 NaN  
+21                 NaN                 NaN  
+22                 NaN                 NaN  
+23                 NaN                 NaN  
+24                 NaN                 NaN  
+25                 NaN                 NaN  
+26                   X                   X  
+27                 NaN                 NaN  
+28                   C                   C  
+29                 NaN                 NaN  
+30                   X                   X  
+31                   X                   X  
+32                   X                   X  
+33                   X                   X  
+34                   X                   X  
+35                   X                   X  
+36                   X                   X  
+37                 NaN                 NaN  
+
+[38 rows x 28 columns]
