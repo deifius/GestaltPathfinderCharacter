@@ -1,0 +1,324 @@
+None
+from microbit import *
+barbarian = open('barbarian.html','r')
+barbarian = open('barbarian','r')
+barbarian[0:200]
+barbarian = open('barbarian','r').read()
+barbarian
+barbarian[0:200]
+barbarian = open('barbarian','r').read()
+import json
+barbarian = json.dumps(open('barbarian','r').read())
+barbarian[1]
+barbarian[0:400]
+barbarian = json.dumps(open('barbarian','r').readline())
+barbarian[0:4]
+barbarian[0:5]
+barbarian[0:50]
+barbarian = open('barbarian','r').readline()
+barbarian
+barbarian = open('barbarian','r').readlines()
+barbarian
+barbarian[4]
+barbarian[5]
+barbarian[6]
+barbarian
+len(barbarian)
+bard = open('bard','r').readlines()
+len(bard)
+bard[500:600]
+for each in bard[500:600]: each
+for each in bard:
+	if "table" in each: each
+	if "Table" in each: each
+for each in bard:
+	if "Table" in each: each
+bardtable = []
+for each in bard:
+	if "Table" in each: bardtable.append(each)
+len(bardtable)
+bardtable[0]
+bardtable[1]
+bardtable[2]
+bardtable[3]
+bardtable[4]
+bardtable[5]
+bardtable[6]
+bardtable[7]
+bardtable[1]
+bardtable[0]
+barbtable = []
+for each in barbarian: if "Table" in each: barbtable.append(each)
+for each in barbarian:
+	if "Table" in each: barbtable.append(each)
+len(barbtable)
+barbtable
+barbtable[0]
+bardtable[0]
+import sys
+dir(sys)
+charclass = open('../classlist','r').readlines()
+charlist
+charclass
+charclass = open('../classlist','r').readlines().trim()
+for each in charclass: each
+for each in charclass: print(each)
+charclass = open('../classlist','r').read().split()
+charclass[1]
+charclass[0:4]
+charclass
+classdict = {}
+for each in charclass:
+	 each = open(each,'r').read().split()
+for each in charclass:
+	 classdict[each] = open(each,'r').read().split()
+classdict['bard']
+for each in classdict['bard']:
+	if "Table" in each: each
+for every in classdict:
+ for each in every:
+	if "Table" in each: each
+for every in classdict:
+	for each in every:
+		if "Table" in each: each
+for every in classdict:
+	every
+classdict['witch']
+or each in classdict['witch']:	if '/table' in each:	each
+for each in classdict['witch']:	if '/table' in each:	each
+for each in classdict['witch']:
+	if '/table' in each: each
+import re
+bard
+bard = open('bard','r').read()
+re.findall('table.+/table',bard)
+re.findall('/table',bard)
+import beautifulsoup
+import BeautifulSoup
+import beautifulsoup
+import beautifulsoup4
+from bs4 import BeautifulSoup
+bard
+soup = BeautifulSoup(bard, 'html_parser')
+import lxml
+soup = BeautifulSoup(bard, lxml)
+soup = BeautifulSoup(bard, 'html_parser')
+import html5lib
+soup = BeautifulSoup(bard, 'html_parser')
+soup = BeautifulSoup(bard)
+soup.tables()
+soup.tables
+print(soup.tables)
+print(soup.title)
+print(soup.title.name)
+print(soup.title.string)
+print(soup.get_text())
+bard = ''.join(open('bard','r').read().split())
+bard[0:45]
+import re
+this = re.findall('<table>.+</table>')
+this = re.findall('<table>.+</table>',bard)
+this[0]
+from bs4 import BeautifulSoup
+barda = BeautifulSoup(this[0],'lxml')
+barda
+barda.prettify()
+this[1]
+this[0]
+len(this)
+this = re.findall('<table>.+</table>',this[1])
+this = re.findall('<table>.+</table>',this[0])
+this
+len(this_
+len(this)
+this = re.findall('<table>.+</table>',this[0])
+len(this)
+this = re.findall('<table>.+?</table>',this[0])
+len(this)
+bard
+this = re.findall('<table>.*?</table>',bard)
+len(this)
+this = re.findall('<table>',bard)
+len(this)
+this = re.findall('table',bard)
+len(this)
+this = re.findall('table.+?/table',bard)
+len(this)
+this[1]
+this[0]
+this[0][0:50]
+this[1][0:50]
+this[2][0:100]
+this[3][0:100]
+this[4][0:100]
+this[5][0:100]
+this[1][0:100]
+from html_table_extractor.extractor import Extractor
+exctract = Extractor(this[1])
+exctractor.parse()
+exctract.parse()
+exctract.return_list()
+exctract
+exctract.return_list()
+import pandas
+bard = pandas.read_html(r'http://www.d20pfsrd.com/classes/core-classes/bard')
+bard
+bard[0]
+bard[0][0]
+bard[1]
+charclass
+charclass = open('../classlist','r').read().split()
+charclass
+for each in charclass:
+	thisurl = r'http://www.d20pfsrd.com/classes/core-classes/' + each
+	chardict[each] = pandas.read_html(thisurl)
+chardict['wizard']
+chardict = {}
+for each in charclass:
+	chardict[each] = pandas.read_html(thisurl)
+for each in charclass:
+	thisurl = r'http://www.d20pfsrd.com/classes/core-classes/' + each
+	chardict[each] = pandas.read_html(thisurl)
+charclass
+charclass.pop(0)
+charclass.pop(2)
+charclass.pop(5)
+charclass.pop(5:6)
+charclass.pop(5,6)
+charclass.pop(5)
+charclass.pop(6)
+charclass.pop(9)
+charclass.pop(10)
+charclass
+for each in charclass:
+	thisurl = r'http://www.d20pfsrd.com/classes/core-classes/' + each
+	chardict[each] = pandas.read_html(thisurl)
+chardict['bard']
+chardict['bard'][0]
+chardict['bard'][0][0]
+len(chardict['bard'])
+chardict['bard'][5]
+chardict['bard'][4]
+chardict['bard'][3]
+chardict['bard'][2]
+chardict['bard'][1]
+chardict['bard'][0]
+chardict['bard'][1]
+chardict['cleric'][1]
+chardict['cleric'][2]
+chardict['cleric'][0]
+chardict
+baseclass = open('../classlist','r').read().split()
+baseclass
+baseclass.pop(1)
+baseclass.pop(2)
+baseclass.pop(6)
+baseclass.pop(7)
+baseclass.pop(6)
+baseclass.pop(5)
+baseclass
+baseclass.pop(5)
+baseclass.pop(6)
+baseclass.pop(9)
+baseclass
+baseclass.append('oracle')
+baseclass
+for each in baseclass:
+	thisurl = r'http://www.d20pfsrd.com/classes/base-classes/' + each
+	chardict[each] = pandas.read_html(thisurl)
+what  = open('../crunchedtables.txt','w')
+what.write(chardict)
+import json
+what.write(json.dumps(chardict))
+what.close()
+what  = open('../crunchedtables.txt','w')
+for each in baseclass:
+	what.write('each')
+for each in charclass:
+	what.write('each')
+what.close()
+what  = open('../crunchedtables.txt','w')
+for each in charclass:
+	what.write(each)
+for each in baseclass:
+	what.write(each)
+what.close()
+what  = open('../crunchedtables.txt','w')
+allclass = baseclass + charclass
+allclass
+for each in allclass:
+	what.write(each + \n+-+-+-+\n + chardict[each])
+for each in allclass:
+	what.write(each + '\n+-+-+-+\n' + chardict[each])
+for each in allclass:
+	what.write(each + '\n+-+-+-+\n')
+	for every in chardict[each]:
+		what.write(every + '\n')
+what.close()
+chardict['magus']
+len(chardict['magus'])
+chardict['magus'][1]
+len(chardict['magus'][1])
+chardict['magus'][1][1]
+chardict['magus'][1][2]
+chardict['magus'][1][0]
+chardict['magus'][0][0]
+chardict['magus'][0][1]
+chardict['magus'][1][1]
+chardict['magus'][1][-1]
+chardict['magus'][1][5]
+len(chardict['magus'][1])
+len(chardict['magus'][0])
+len(chardict['magus'][2])
+chardict['magus'][2][1]
+chardict['magus']
+chardict['magus'][2]
+chardict['magus'][1][0]
+chardict['magus'][1][2]
+chardict['magus'][1][3]
+chardict['magus'][1][4]
+chardict['magus'][1][5]
+chardict['magus'][2][1]
+chardict['magus'][2]
+for each in chardict:
+	each
+for each in chardict:
+	print(each + ': ' + len(chardict[each]))
+for each in chardict:
+	print(each + ': ' + str(len(chardict[each])))
+what = open('../crunchedtables.txt','w')
+for each in chardict:
+	what.write(each + "\n=-=-=-=-=-=-=-=\n")
+	for any in chardict[each]:
+		what.write(any)
+for each in chardict:
+	what.write(each + "\n=-=-=-=-=-=-=-=\n")
+	for any in chardict[each]:
+		what.write(str(any))
+what.close()
+what = open('../crunchedtables.txt','w')
+for each in chardict:
+	what.write('-=-=-=-=-=-=-=-' + each + "=-=-=-=-=-=-=-=\n")
+	for any in chardict[each]:
+		what.write(str(any))
+import pickle
+import json
+yes = json.dumps(chardict)
+yes = json.dumps(chardict['bard'])
+yes = json.dumps(chardict['bard'][0])
+yes = json.dumps(chardict['bard'][1])
+yes = pickle(chardict,'../pickledclass')
+yes = pickle(chardict['bard'],'../pickledclass')
+yes = pickle(chardict['bard'][2],'../pickledclass')
+yes = pickle.dump(chardict,'../pickledclass')
+whet = open('../pickledclass','w')
+yes = pickle.dump(chardict,whet)
+yes = pickle.dump(str(chardict),whet)
+yes = pickle.dump(str(chardict['bard']),whet)
+pickle.dump(str(chardict['bard']),whet)
+exit
+history
+%history
+readline.get_current_history_length()
+import history
+import readline
