@@ -11,10 +11,10 @@ characterdict = {}
 
 
 if len(charclass[-1][-1]) == 1: 
-	characterdict['SpellsPerLevel'] = []
+	characterdict['SpellsPerDay'] = []
 	while len(charclass[-1][-1]) == 1: 
-		characterdict['SpellsPerLevel'].insert(0,charclass.pop(-1))
-	characterdict["SpellsPerLevel"] = list(zip(*characterdict["SpellsPerLevel"]))
+		characterdict['SpellsPerDay'].insert(0,charclass.pop(-1))
+	characterdict["SpellsPerDay"] = list(zip(*characterdict["SpellsPerDay"]))
 
 characterdict['SpecialAbilities'] = charclass.pop(-1)
 characterdict['Will'] = charclass.pop(-1)

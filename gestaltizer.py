@@ -4,20 +4,21 @@ import json
 import sys
 import pdb
 
-GestaltD20Class = {
-	'Name' : '',
-	'HitDice' : [],
-	'SkillPointsPerDay' : 0,
-	'BaseAttackBonus' : [],
-	'Fortitude' : [],
-	'Will' : [],
-	'Reflex' : [],
-	'SpecialAbilities' : [],
-	'SpellsPerDay' : {},
-	'SpellsKnown' : []
-}
+
 
 def Gestalting(ClassOne, ClassTwo):
+	GestaltD20Class = {
+		'Name' : '',
+		'HitDice' : [],
+		'SkillPointsPerDay' : 0,
+		'BaseAttackBonus' : [],
+		'Fortitude' : [],
+		'Will' : [],
+		'Reflex' : [],
+		'SpecialAbilities' : [],
+		'SpellsPerDay' : {},
+		'SpellsKnown' : []
+	}
 	GestaltD20Class['Name'] = ClassOne['Name'] + '+' + ClassTwo['Name']
 	if int(ClassOne['BaseAttackBonus'][4]) > int(ClassTwo['BaseAttackBonus'][4]): GestaltD20Class['BaseAttackBonus']= ClassOne['BaseAttackBonus'] 
 	else:  GestaltD20Class['BaseAttackBonus']= ClassTwo['BaseAttackBonus']
